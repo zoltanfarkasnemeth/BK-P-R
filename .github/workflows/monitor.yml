@@ -1,0 +1,43 @@
+name: P+R Parkoló Monitor
+
+on:
+  schedule:
+    # Minden 5 percben (GitHub Actions minimum 5 perc)
+    - cron: "*/5 * * * *"
+  workflow_dispatch:   # Kézi indítás is lehetséges
+
+permissions:
+  contents: write      # Kell a fájlok commit-olásához
+
+jobs:
+  poll:
+    runs-on: ubuntu-latest
+    timeout-minutes: 4   # Biztonsági limit, hogy ne lógjon túl a 5 perces cikluson
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Egyetlen lekérdezési kör futtatása
+        run: python parking_monitor.py --once
+        # A --once flag egyetlen kört fut le, nem loop
+
+      - name: Commit & push frissített fájlok
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add parking_data.json parking_log.xlsx parking_monitor.log
+          # Csak akkor commit, ha tényleg változott valami
+          git diff --cached --quiet || git commit -m "Auto: parkoló frissítés $(date -u '+%Y-%m-%dT%H:%M:%SZ')"
+          git push
