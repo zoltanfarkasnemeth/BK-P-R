@@ -139,36 +139,61 @@ def parse_static(root: ET.Element) -> dict[str, dict]:
 def parse_dynamic(root: ET.Element) -> dict[str, dict]:
     """
     Visszaad egy dict-et {parking_id -> {...}} formában.
-    Kivon: id, szabad_helyek, foglalt_helyek, meres_ideje
+
+    A dinamikus feed szerkezete:
+      <parkingRecordStatus xsi:type="ParkingSiteStatus">
+        <parkingRecordReference id="P131" version="1"/>
+        <parkingStatusOriginTime>...</parkingStatusOriginTime>
+        <parkingOccupancy>
+          <parkingNumberOfVehicles>500</parkingNumberOfVehicles>
+        </parkingOccupancy>
+      </parkingRecordStatus>
+
+    A foglalt szám = parkingNumberOfVehicles
+    A szabad = kapacitás - foglalt  (majd a merge() számolja)
     """
     result: dict[str, dict] = {}
 
-    for pr in _find_all(root, "parkingRecord"):
-        pid = pr.attrib.get("id", "").strip()
+    for status in _find_all(root, "parkingRecordStatus"):
+        # Az ID a <parkingRecordReference id="P131"> attribútumban van
+        pid = None
+        for ref in _find_all(status, "parkingRecordReference"):
+            pid = ref.attrib.get("id", "").strip() or None
+            if pid:
+                break
+
+        if not pid:
+            # Fallback: ha mégis az elem saját attribútumában lenne
+            pid = status.attrib.get("id", "").strip() or None
+
         if not pid:
             continue
 
-        # Szabad/foglalt helyek
-        vacant_txt  = _find_text(pr, "parkingNumberOfVacantSpaces", "numberOfVacantSpaces")
-        occupied_txt = _find_text(pr, "parkingNumberOfOccupiedSpaces", "numberOfOccupiedSpaces")
+        # Foglalt járművek száma
+        vehicles_txt = _find_text(status, "parkingNumberOfVehicles")
+        # Esetleges alternatív tagek is kezelve
+        occupied_txt = _find_text(status, "parkingNumberOfOccupiedSpaces", "numberOfOccupiedSpaces")
+        vacant_txt   = _find_text(status, "parkingNumberOfVacantSpaces",   "numberOfVacantSpaces")
 
-        szabad  = int(vacant_txt)   if vacant_txt   and vacant_txt.isdigit()   else None
-        foglalt = int(occupied_txt) if occupied_txt and occupied_txt.isdigit() else None
+        def to_int(val):
+            return int(val) if val and val.strip().lstrip("-").isdigit() else None
 
-        # Alternatív: ha csak szabad van, foglalt = kapacitás - szabad (majd kombináláskor)
+        foglalt = to_int(vehicles_txt) or to_int(occupied_txt)
+        szabad  = to_int(vacant_txt)
+
         # Időbélyeg
         ts_txt = _find_text(
-            pr,
+            status,
             "parkingStatusOriginTime",
             "measurementOrCalculationTime",
             "publicationTime",
         )
 
         result[pid] = {
-            "id": pid,
+            "id":            pid,
             "szabad_helyek": szabad,
             "foglalt_helyek": foglalt,
-            "meres_ideje": ts_txt,
+            "meres_ideje":   ts_txt,
         }
 
     log.info("Dinamikus adatok: %d parkoló beolvasva.", len(result))
