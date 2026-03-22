@@ -1709,3 +1709,22 @@
 2026-03-22 19:57:55,687  INFO      Változás – Cinkota P+R parkoló (Ostoros út) [P221]: +3 (volt: 27, most: 30)
 2026-03-22 19:57:55,695  INFO      Változás – Múzeum Mélygarázs [P251]: +22 (volt: 456, most: 478)
 2026-03-22 19:57:55,840  INFO      Excel frissítve: parking_log.xlsx (1053 sor)
+2026-03-22 20:21:01,852  INFO      NAP Hub P+R parkoló monitor indul. [EGYSZERI MÓD]
+2026-03-22 20:21:01,852  INFO      Statikus feed : https://napphub.kozut.hu/hub-web//datex2/2_3/a0db40f1-6bc2-4059-853a-64eb91a45e9c/getDatex2Data
+2026-03-22 20:21:01,852  INFO      Dinamikus feed: https://napphub.kozut.hu/hub-web//datex2/2_3/7b21743f-fd9f-43d1-9b5e-77e3eb714c06/getDatex2Data
+2026-03-22 20:21:01,852  INFO      === Lekérdezés indul ===
+2026-03-22 20:21:08,358  INFO      Statikus adatok: 16 parkoló beolvasva.
+2026-03-22 20:21:23,939  INFO      Dinamikus adatok: 16 parkoló beolvasva.
+2026-03-22 20:21:23,940  INFO      JSON mentve: parking_data.json (16 rekord)
+2026-03-22 20:21:24,067  INFO      Változás – Újpest P+R parkoló [P031]: -1 (volt: 91, most: 90)
+2026-03-22 20:21:24,076  INFO      Változás – Kőbánya-Kispest P+R parkoló [P051]: +2 (volt: 177, most: 179)
+2026-03-22 20:21:24,085  INFO      Változás – KÖKI Terminál P+R parkolóház [P061]: +1 (volt: 278, most: 279)
+2026-03-22 20:21:24,102  INFO      Változás – Etele P1 P+R parkoló [P101]: +4 (volt: 212, most: 216)
+2026-03-22 20:21:24,111  INFO      Változás – Etele P2 P+R parkoló [P111]: +2 (volt: 192, most: 194)
+2026-03-22 20:21:24,119  INFO      Változás – Őrmező P1 P+R parkoló [P121]: +4 (volt: 415, most: 419)
+2026-03-22 20:21:24,128  INFO      Változás – Őrmező P2 P+R parkoló [P131]: +7 (volt: 421, most: 428)
+2026-03-22 20:21:24,145  INFO      Változás – Pillangó utca (Metró bejárat) [P151]: +1 (volt: 26, most: 27)
+2026-03-22 20:21:24,154  INFO      Változás – Margitsziget északi fizető parkoló [P171]: +5 (volt: 201, most: 206)
+2026-03-22 20:21:24,163  INFO      Változás – Örs vezér tere [P191]: +3 (volt: 212, most: 215)
+2026-03-22 20:21:24,180  INFO      Változás – Csepel P+R [P211]: -2 (volt: 3, most: 1)
+2026-03-22 20:21:24,338  INFO      Excel frissítve: parking_log.xlsx (1069 sor)
