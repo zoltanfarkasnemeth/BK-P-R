@@ -7,8 +7,8 @@
     "foglalt_helyek": 99,
     "latitude": 47.558212,
     "longitude": 19.07823,
-    "meres_ideje": "2026-03-24T08:32:42+01:00",
-    "lekerdezes_ideje": "2026-03-24T07:40:33"
+    "meres_ideje": "2026-03-24T09:21:48+01:00",
+    "lekerdezes_ideje": "2026-03-24T08:28:33"
   },
   {
     "id": "P051",
@@ -18,52 +18,52 @@
     "foglalt_helyek": 206,
     "latitude": 47.46426,
     "longitude": 19.145142,
-    "meres_ideje": "2026-03-24T08:32:42+01:00",
-    "lekerdezes_ideje": "2026-03-24T07:40:33"
+    "meres_ideje": "2026-03-24T09:21:48+01:00",
+    "lekerdezes_ideje": "2026-03-24T08:28:33"
   },
   {
     "id": "P061",
     "nev": "KÖKI Terminál P+R parkolóház",
     "kapacitas_osszes": 330,
-    "szabad_helyek": 96,
-    "foglalt_helyek": 234,
+    "szabad_helyek": 53,
+    "foglalt_helyek": 277,
     "latitude": 47.46332,
     "longitude": 19.146208,
-    "meres_ideje": "2026-03-24T08:32:42+01:00",
-    "lekerdezes_ideje": "2026-03-24T07:40:33"
+    "meres_ideje": "2026-03-24T09:21:48+01:00",
+    "lekerdezes_ideje": "2026-03-24T08:28:33"
   },
   {
     "id": "P071",
     "nev": "Rákóczi tér mélygarázs",
     "kapacitas_osszes": 98,
-    "szabad_helyek": 30,
-    "foglalt_helyek": 68,
+    "szabad_helyek": 27,
+    "foglalt_helyek": 71,
     "latitude": 47.493107,
     "longitude": 19.071945,
-    "meres_ideje": "2026-03-24T08:26:30+01:00",
-    "lekerdezes_ideje": "2026-03-24T07:40:33"
+    "meres_ideje": "2026-03-24T09:16:37+01:00",
+    "lekerdezes_ideje": "2026-03-24T08:28:33"
   },
   {
     "id": "P101",
     "nev": "Etele P1 P+R parkoló",
     "kapacitas_osszes": 247,
-    "szabad_helyek": 29,
-    "foglalt_helyek": 218,
+    "szabad_helyek": 0,
+    "foglalt_helyek": 247,
     "latitude": 47.46328,
     "longitude": 19.023825,
-    "meres_ideje": "2026-03-24T08:32:42+01:00",
-    "lekerdezes_ideje": "2026-03-24T07:40:33"
+    "meres_ideje": "2026-03-24T09:21:48+01:00",
+    "lekerdezes_ideje": "2026-03-24T08:28:33"
   },
   {
     "id": "P111",
     "nev": "Etele P2 P+R parkoló",
     "kapacitas_osszes": 221,
-    "szabad_helyek": 40,
-    "foglalt_helyek": 181,
+    "szabad_helyek": 0,
+    "foglalt_helyek": 221,
     "latitude": 47.462627,
     "longitude": 19.022522,
-    "meres_ideje": "2026-03-24T08:32:42+01:00",
-    "lekerdezes_ideje": "2026-03-24T07:40:33"
+    "meres_ideje": "2026-03-24T09:21:48+01:00",
+    "lekerdezes_ideje": "2026-03-24T08:28:33"
   },
   {
     "id": "P121",
@@ -73,8 +73,8 @@
     "foglalt_helyek": 485,
     "latitude": 47.463947,
     "longitude": 19.017702,
-    "meres_ideje": "2026-03-24T08:32:42+01:00",
-    "lekerdezes_ideje": "2026-03-24T07:40:33"
+    "meres_ideje": "2026-03-24T09:21:48+01:00",
+    "lekerdezes_ideje": "2026-03-24T08:28:33"
   },
   {
     "id": "P131",
@@ -84,19 +84,19 @@
     "foglalt_helyek": 500,
     "latitude": 47.46288,
     "longitude": 19.01936,
-    "meres_ideje": "2026-03-24T08:32:42+01:00",
-    "lekerdezes_ideje": "2026-03-24T07:40:33"
+    "meres_ideje": "2026-03-24T09:21:48+01:00",
+    "lekerdezes_ideje": "2026-03-24T08:28:33"
   },
   {
     "id": "P141",
     "nev": "Pillangó utca (Albertirsai út)",
     "kapacitas_osszes": 76,
-    "szabad_helyek": 0,
-    "foglalt_helyek": 76,
+    "szabad_helyek": 1,
+    "foglalt_helyek": 75,
     "latitude": 47.5009,
     "longitude": 19.117083,
-    "meres_ideje": "2026-03-24T08:32:42+01:00",
-    "lekerdezes_ideje": "2026-03-24T07:40:33"
+    "meres_ideje": "2026-03-24T09:21:48+01:00",
+    "lekerdezes_ideje": "2026-03-24T08:28:33"
   },
   {
     "id": "P151",
@@ -106,8 +106,8 @@
     "foglalt_helyek": 45,
     "latitude": 47.50098,
     "longitude": 19.117624,
-    "meres_ideje": "2026-03-24T08:32:42+01:00",
-    "lekerdezes_ideje": "2026-03-24T07:40:33"
+    "meres_ideje": "2026-03-24T09:21:48+01:00",
+    "lekerdezes_ideje": "2026-03-24T08:28:33"
   },
   {
     "id": "P171",
@@ -117,8 +117,8 @@
     "foglalt_helyek": 54,
     "latitude": 47.534935,
     "longitude": 19.053337,
-    "meres_ideje": "2026-03-24T08:30:08+01:00",
-    "lekerdezes_ideje": "2026-03-24T07:40:33"
+    "meres_ideje": "2026-03-24T09:20:15+01:00",
+    "lekerdezes_ideje": "2026-03-24T08:28:33"
   },
   {
     "id": "P191",
@@ -128,8 +128,8 @@
     "foglalt_helyek": 265,
     "latitude": 47.50191,
     "longitude": 19.135065,
-    "meres_ideje": "2026-03-24T08:32:42+01:00",
-    "lekerdezes_ideje": "2026-03-24T07:40:33"
+    "meres_ideje": "2026-03-24T09:21:48+01:00",
+    "lekerdezes_ideje": "2026-03-24T08:28:33"
   },
   {
     "id": "P201",
@@ -139,40 +139,40 @@
     "foglalt_helyek": 80,
     "latitude": 47.54156,
     "longitude": 18.965647,
-    "meres_ideje": "2026-03-24T08:32:12+01:00",
-    "lekerdezes_ideje": "2026-03-24T07:40:33"
+    "meres_ideje": "2026-03-24T09:22:18+01:00",
+    "lekerdezes_ideje": "2026-03-24T08:28:33"
   },
   {
     "id": "P211",
     "nev": "Csepel P+R",
     "kapacitas_osszes": 104,
-    "szabad_helyek": 6,
-    "foglalt_helyek": 98,
+    "szabad_helyek": 8,
+    "foglalt_helyek": 96,
     "latitude": 47.421543,
     "longitude": 19.067772,
-    "meres_ideje": "2026-03-24T08:23:56+01:00",
-    "lekerdezes_ideje": "2026-03-24T07:40:33"
+    "meres_ideje": "2026-03-24T09:16:06+01:00",
+    "lekerdezes_ideje": "2026-03-24T08:28:33"
   },
   {
     "id": "P221",
     "nev": "Cinkota P+R parkoló (Ostoros út)",
     "kapacitas_osszes": 165,
-    "szabad_helyek": 4,
-    "foglalt_helyek": 161,
+    "szabad_helyek": 5,
+    "foglalt_helyek": 160,
     "latitude": 47.520844,
     "longitude": 19.219007,
-    "meres_ideje": "2026-03-24T08:23:56+01:00",
-    "lekerdezes_ideje": "2026-03-24T07:40:33"
+    "meres_ideje": "2026-03-24T09:15:03+01:00",
+    "lekerdezes_ideje": "2026-03-24T08:28:33"
   },
   {
     "id": "P251",
     "nev": "Múzeum Mélygarázs",
     "kapacitas_osszes": 710,
-    "szabad_helyek": 458,
-    "foglalt_helyek": 252,
+    "szabad_helyek": 427,
+    "foglalt_helyek": 283,
     "latitude": 47.509594,
     "longitude": 19.083073,
-    "meres_ideje": "2026-03-24T08:28:34+01:00",
-    "lekerdezes_ideje": "2026-03-24T07:40:33"
+    "meres_ideje": "2026-03-24T09:13:31+01:00",
+    "lekerdezes_ideje": "2026-03-24T08:28:33"
   }
 ]
