@@ -2344,3 +2344,11 @@
 2026-03-24 19:58:15,666  INFO      Dinamikus adatok: 16 parkoló beolvasva.
 2026-03-24 19:58:15,666  INFO      JSON mentve: parking_data.json (16 rekord)
 2026-03-24 19:58:16,194  INFO      Excel frissítve: parking_log.xlsx (1485 sor)
+2026-03-24 20:37:11,036  INFO      NAP Hub P+R parkoló monitor indul. [EGYSZERI MÓD]
+2026-03-24 20:37:11,037  INFO      Statikus feed : https://napphub.kozut.hu/hub-web//datex2/2_3/a0db40f1-6bc2-4059-853a-64eb91a45e9c/getDatex2Data
+2026-03-24 20:37:11,037  INFO      Dinamikus feed: https://napphub.kozut.hu/hub-web//datex2/2_3/7b21743f-fd9f-43d1-9b5e-77e3eb714c06/getDatex2Data
+2026-03-24 20:37:11,037  INFO      === Lekérdezés indul ===
+2026-03-24 20:37:41,249  ERROR     Letöltési hiba (https://napphub.kozut.hu/hub-web//datex2/2_3/a0db40f1-6bc2-4059-853a-64eb91a45e9c/getDatex2Data): HTTPSConnectionPool(host='napphub.kozut.hu', port=443): Max retries exceeded with url: /hub-web//datex2/2_3/a0db40f1-6bc2-4059-853a-64eb91a45e9c/getDatex2Data (Caused by ConnectTimeoutError(<HTTPSConnection(host='napphub.kozut.hu', port=443) at 0x7fa84c061fa0>, 'Connection to napphub.kozut.hu timed out. (connect timeout=30)'))
+2026-03-24 20:37:41,249  WARNING   Statikus feed nem elérhető, üres kapacitásokkal folytatjuk.
+2026-03-24 20:38:11,449  ERROR     Letöltési hiba (https://napphub.kozut.hu/hub-web//datex2/2_3/7b21743f-fd9f-43d1-9b5e-77e3eb714c06/getDatex2Data): HTTPSConnectionPool(host='napphub.kozut.hu', port=443): Max retries exceeded with url: /hub-web//datex2/2_3/7b21743f-fd9f-43d1-9b5e-77e3eb714c06/getDatex2Data (Caused by ConnectTimeoutError(<HTTPSConnection(host='napphub.kozut.hu', port=443) at 0x7fa84bc8d610>, 'Connection to napphub.kozut.hu timed out. (connect timeout=30)'))
+2026-03-24 20:38:11,449  WARNING   Dinamikus feed nem elérhető, kihagyás.
