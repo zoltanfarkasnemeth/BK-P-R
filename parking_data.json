@@ -4,22 +4,22 @@
     "nev": "P031",
     "kapacitas_osszes": null,
     "szabad_helyek": null,
-    "foglalt_helyek": 99,
+    "foglalt_helyek": 95,
     "latitude": null,
     "longitude": null,
-    "meres_ideje": "2026-03-31T11:47:41+02:00",
-    "lekerdezes_ideje": "2026-03-31T09:51:17"
+    "meres_ideje": "2026-03-31T12:33:39+02:00",
+    "lekerdezes_ideje": "2026-03-31T10:40:37"
   },
   {
     "id": "P051",
     "nev": "P051",
     "kapacitas_osszes": null,
     "szabad_helyek": null,
-    "foglalt_helyek": 206,
+    "foglalt_helyek": 205,
     "latitude": null,
     "longitude": null,
-    "meres_ideje": "2026-03-31T11:47:41+02:00",
-    "lekerdezes_ideje": "2026-03-31T09:51:17"
+    "meres_ideje": "2026-03-31T12:33:38+02:00",
+    "lekerdezes_ideje": "2026-03-31T10:40:37"
   },
   {
     "id": "P061",
@@ -29,19 +29,19 @@
     "foglalt_helyek": 275,
     "latitude": null,
     "longitude": null,
-    "meres_ideje": "2026-03-31T11:47:40+02:00",
-    "lekerdezes_ideje": "2026-03-31T09:51:17"
+    "meres_ideje": "2026-03-31T12:33:38+02:00",
+    "lekerdezes_ideje": "2026-03-31T10:40:37"
   },
   {
     "id": "P071",
     "nev": "P071",
     "kapacitas_osszes": null,
     "szabad_helyek": null,
-    "foglalt_helyek": 83,
+    "foglalt_helyek": 87,
     "latitude": null,
     "longitude": null,
-    "meres_ideje": "2026-03-31T11:41:24+02:00",
-    "lekerdezes_ideje": "2026-03-31T09:51:17"
+    "meres_ideje": "2026-03-31T12:26:24+02:00",
+    "lekerdezes_ideje": "2026-03-31T10:40:37"
   },
   {
     "id": "P101",
@@ -51,8 +51,8 @@
     "foglalt_helyek": 247,
     "latitude": null,
     "longitude": null,
-    "meres_ideje": "2026-03-31T11:47:41+02:00",
-    "lekerdezes_ideje": "2026-03-31T09:51:17"
+    "meres_ideje": "2026-03-31T12:33:39+02:00",
+    "lekerdezes_ideje": "2026-03-31T10:40:37"
   },
   {
     "id": "P111",
@@ -62,30 +62,30 @@
     "foglalt_helyek": 221,
     "latitude": null,
     "longitude": null,
-    "meres_ideje": "2026-03-31T11:47:41+02:00",
-    "lekerdezes_ideje": "2026-03-31T09:51:17"
+    "meres_ideje": "2026-03-31T12:33:39+02:00",
+    "lekerdezes_ideje": "2026-03-31T10:40:37"
   },
   {
     "id": "P121",
     "nev": "P121",
     "kapacitas_osszes": null,
     "szabad_helyek": null,
-    "foglalt_helyek": 485,
+    "foglalt_helyek": 478,
     "latitude": null,
     "longitude": null,
-    "meres_ideje": "2026-03-31T11:47:41+02:00",
-    "lekerdezes_ideje": "2026-03-31T09:51:17"
+    "meres_ideje": "2026-03-31T12:33:39+02:00",
+    "lekerdezes_ideje": "2026-03-31T10:40:37"
   },
   {
     "id": "P131",
     "nev": "P131",
     "kapacitas_osszes": null,
     "szabad_helyek": null,
-    "foglalt_helyek": 500,
+    "foglalt_helyek": 498,
     "latitude": null,
     "longitude": null,
-    "meres_ideje": "2026-03-31T11:47:41+02:00",
-    "lekerdezes_ideje": "2026-03-31T09:51:17"
+    "meres_ideje": "2026-03-31T12:33:39+02:00",
+    "lekerdezes_ideje": "2026-03-31T10:40:37"
   },
   {
     "id": "P141",
@@ -95,8 +95,8 @@
     "foglalt_helyek": 75,
     "latitude": null,
     "longitude": null,
-    "meres_ideje": "2026-03-31T11:47:41+02:00",
-    "lekerdezes_ideje": "2026-03-31T09:51:17"
+    "meres_ideje": "2026-03-31T12:33:38+02:00",
+    "lekerdezes_ideje": "2026-03-31T10:40:37"
   },
   {
     "id": "P151",
@@ -106,19 +106,19 @@
     "foglalt_helyek": 45,
     "latitude": null,
     "longitude": null,
-    "meres_ideje": "2026-03-31T11:47:41+02:00",
-    "lekerdezes_ideje": "2026-03-31T09:51:17"
+    "meres_ideje": "2026-03-31T12:33:39+02:00",
+    "lekerdezes_ideje": "2026-03-31T10:40:37"
   },
   {
     "id": "P171",
     "nev": "P171",
     "kapacitas_osszes": null,
     "szabad_helyek": null,
-    "foglalt_helyek": 36,
+    "foglalt_helyek": 38,
     "latitude": null,
     "longitude": null,
-    "meres_ideje": "2026-03-31T11:47:09+02:00",
-    "lekerdezes_ideje": "2026-03-31T09:51:17"
+    "meres_ideje": "2026-03-31T12:31:02+02:00",
+    "lekerdezes_ideje": "2026-03-31T10:40:37"
   },
   {
     "id": "P191",
@@ -128,30 +128,30 @@
     "foglalt_helyek": 265,
     "latitude": null,
     "longitude": null,
-    "meres_ideje": "2026-03-31T11:47:41+02:00",
-    "lekerdezes_ideje": "2026-03-31T09:51:17"
+    "meres_ideje": "2026-03-31T12:33:39+02:00",
+    "lekerdezes_ideje": "2026-03-31T10:40:37"
   },
   {
     "id": "P201",
     "nev": "P201",
     "kapacitas_osszes": null,
     "szabad_helyek": null,
-    "foglalt_helyek": 75,
+    "foglalt_helyek": 78,
     "latitude": null,
     "longitude": null,
-    "meres_ideje": "2026-03-31T11:48:11+02:00",
-    "lekerdezes_ideje": "2026-03-31T09:51:17"
+    "meres_ideje": "2026-03-31T12:33:06+02:00",
+    "lekerdezes_ideje": "2026-03-31T10:40:37"
   },
   {
     "id": "P211",
     "nev": "P211",
     "kapacitas_osszes": null,
     "szabad_helyek": null,
-    "foglalt_helyek": 96,
+    "foglalt_helyek": 100,
     "latitude": null,
     "longitude": null,
-    "meres_ideje": "2026-03-31T11:42:58+02:00",
-    "lekerdezes_ideje": "2026-03-31T09:51:17"
+    "meres_ideje": "2026-03-31T12:24:51+02:00",
+    "lekerdezes_ideje": "2026-03-31T10:40:37"
   },
   {
     "id": "P221",
@@ -161,18 +161,18 @@
     "foglalt_helyek": 155,
     "latitude": null,
     "longitude": null,
-    "meres_ideje": "2026-03-31T11:42:58+02:00",
-    "lekerdezes_ideje": "2026-03-31T09:51:17"
+    "meres_ideje": "2026-03-31T12:28:58+02:00",
+    "lekerdezes_ideje": "2026-03-31T10:40:37"
   },
   {
     "id": "P251",
     "nev": "P251",
     "kapacitas_osszes": null,
     "szabad_helyek": null,
-    "foglalt_helyek": 389,
+    "foglalt_helyek": 371,
     "latitude": null,
     "longitude": null,
-    "meres_ideje": "2026-03-31T11:43:29+02:00",
-    "lekerdezes_ideje": "2026-03-31T09:51:17"
+    "meres_ideje": "2026-03-31T12:28:28+02:00",
+    "lekerdezes_ideje": "2026-03-31T10:40:37"
   }
 ]
