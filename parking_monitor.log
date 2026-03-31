@@ -4624,3 +4624,12 @@
 2026-03-31 12:09:01,108  INFO      Változás – Cinkota P+R parkoló (Ostoros út) [P221]: +1 (volt: 9, most: 10)
 2026-03-31 12:09:01,132  INFO      Változás – Múzeum Mélygarázs [P251]: +13 (volt: 328, most: 341)
 2026-03-31 12:09:01,468  INFO      Excel frissítve: parking_log.xlsx (3081 sor)
+2026-03-31 13:59:49,317  INFO      NAP Hub P+R parkoló monitor indul. [EGYSZERI MÓD]
+2026-03-31 13:59:49,318  INFO      Statikus feed : https://napphub.kozut.hu/hub-web//datex2/2_3/a0db40f1-6bc2-4059-853a-64eb91a45e9c/getDatex2Data
+2026-03-31 13:59:49,318  INFO      Dinamikus feed: https://napphub.kozut.hu/hub-web//datex2/2_3/7b21743f-fd9f-43d1-9b5e-77e3eb714c06/getDatex2Data
+2026-03-31 13:59:49,318  INFO      === Lekérdezés indul ===
+2026-03-31 13:59:59,329  ERROR     Letöltési hiba (https://napphub.kozut.hu/hub-web//datex2/2_3/a0db40f1-6bc2-4059-853a-64eb91a45e9c/getDatex2Data): HTTPSConnectionPool(host='napphub.kozut.hu', port=443): Max retries exceeded with url: /hub-web//datex2/2_3/a0db40f1-6bc2-4059-853a-64eb91a45e9c/getDatex2Data (Caused by NameResolutionError("HTTPSConnection(host='napphub.kozut.hu', port=443): Failed to resolve 'napphub.kozut.hu' ([Errno -3] Temporary failure in name resolution)"))
+2026-03-31 13:59:59,329  WARNING   Statikus feed nem elérhető, üres kapacitásokkal folytatjuk.
+2026-03-31 14:00:02,989  INFO      Dinamikus adatok: 16 parkoló beolvasva.
+2026-03-31 14:00:02,989  INFO      JSON mentve: parking_data.json (16 rekord)
+2026-03-31 14:00:04,097  INFO      Excel frissítve: parking_log.xlsx (3097 sor)
