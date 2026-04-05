@@ -6247,3 +6247,11 @@
 2026-04-05 15:42:29,653  INFO      Változás – Cinkota P+R parkoló (Ostoros út) [P221]: -4 (volt: 23, most: 19)
 2026-04-05 15:42:29,684  INFO      Változás – Múzeum Mélygarázs [P251]: +118 (volt: 178, most: 296)
 2026-04-05 15:42:30,196  INFO      Excel frissítve: parking_log.xlsx (4022 sor)
+2026-04-05 16:02:05,803  INFO      NAP Hub P+R parkoló monitor indul. [EGYSZERI MÓD]
+2026-04-05 16:02:05,803  INFO      Statikus feed : https://napphub.kozut.hu/hub-web//datex2/2_3/a0db40f1-6bc2-4059-853a-64eb91a45e9c/getDatex2Data
+2026-04-05 16:02:05,803  INFO      Dinamikus feed: https://napphub.kozut.hu/hub-web//datex2/2_3/7b21743f-fd9f-43d1-9b5e-77e3eb714c06/getDatex2Data
+2026-04-05 16:02:05,803  INFO      === Lekérdezés indul ===
+2026-04-05 16:02:15,824  ERROR     Letöltési hiba (https://napphub.kozut.hu/hub-web//datex2/2_3/a0db40f1-6bc2-4059-853a-64eb91a45e9c/getDatex2Data): HTTPSConnectionPool(host='napphub.kozut.hu', port=443): Max retries exceeded with url: /hub-web//datex2/2_3/a0db40f1-6bc2-4059-853a-64eb91a45e9c/getDatex2Data (Caused by NameResolutionError("HTTPSConnection(host='napphub.kozut.hu', port=443): Failed to resolve 'napphub.kozut.hu' ([Errno -3] Temporary failure in name resolution)"))
+2026-04-05 16:02:15,824  WARNING   Statikus feed nem elérhető, üres kapacitásokkal folytatjuk.
+2026-04-05 16:02:25,840  ERROR     Letöltési hiba (https://napphub.kozut.hu/hub-web//datex2/2_3/7b21743f-fd9f-43d1-9b5e-77e3eb714c06/getDatex2Data): HTTPSConnectionPool(host='napphub.kozut.hu', port=443): Max retries exceeded with url: /hub-web//datex2/2_3/7b21743f-fd9f-43d1-9b5e-77e3eb714c06/getDatex2Data (Caused by NameResolutionError("HTTPSConnection(host='napphub.kozut.hu', port=443): Failed to resolve 'napphub.kozut.hu' ([Errno -3] Temporary failure in name resolution)"))
+2026-04-05 16:02:25,840  WARNING   Dinamikus feed nem elérhető, kihagyás.
