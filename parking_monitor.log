@@ -9560,3 +9560,11 @@
 2026-04-22 01:15:10,159  WARNING   Statikus feed nem elérhető, üres kapacitásokkal folytatjuk.
 2026-04-22 01:15:17,831  ERROR     Letöltési hiba (https://napphub.kozut.hu/hub-web//datex2/2_3/7b21743f-fd9f-43d1-9b5e-77e3eb714c06/getDatex2Data): 503 Server Error: Service Unavailable for url: https://napphub.kozut.hu/hub-web//datex2/2_3/7b21743f-fd9f-43d1-9b5e-77e3eb714c06/getDatex2Data
 2026-04-22 01:15:17,832  WARNING   Dinamikus feed nem elérhető, kihagyás.
+2026-04-22 04:19:00,380  INFO      NAP Hub P+R parkoló monitor indul. [EGYSZERI MÓD]
+2026-04-22 04:19:00,381  INFO      Statikus feed : https://napphub.kozut.hu/hub-web//datex2/2_3/a0db40f1-6bc2-4059-853a-64eb91a45e9c/getDatex2Data
+2026-04-22 04:19:00,381  INFO      Dinamikus feed: https://napphub.kozut.hu/hub-web//datex2/2_3/7b21743f-fd9f-43d1-9b5e-77e3eb714c06/getDatex2Data
+2026-04-22 04:19:00,381  INFO      === Lekérdezés indul ===
+2026-04-22 04:19:24,206  ERROR     Letöltési hiba (https://napphub.kozut.hu/hub-web//datex2/2_3/a0db40f1-6bc2-4059-853a-64eb91a45e9c/getDatex2Data): 503 Server Error: Service Unavailable for url: https://napphub.kozut.hu/hub-web//datex2/2_3/a0db40f1-6bc2-4059-853a-64eb91a45e9c/getDatex2Data
+2026-04-22 04:19:24,207  WARNING   Statikus feed nem elérhető, üres kapacitásokkal folytatjuk.
+2026-04-22 04:19:31,978  ERROR     Letöltési hiba (https://napphub.kozut.hu/hub-web//datex2/2_3/7b21743f-fd9f-43d1-9b5e-77e3eb714c06/getDatex2Data): 503 Server Error: Service Unavailable for url: https://napphub.kozut.hu/hub-web//datex2/2_3/7b21743f-fd9f-43d1-9b5e-77e3eb714c06/getDatex2Data
+2026-04-22 04:19:31,979  WARNING   Dinamikus feed nem elérhető, kihagyás.
