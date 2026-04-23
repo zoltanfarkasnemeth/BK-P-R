@@ -9824,3 +9824,11 @@
 2026-04-23 22:06:25,465  WARNING   Statikus feed nem elérhető, üres kapacitásokkal folytatjuk.
 2026-04-23 22:06:35,519  ERROR     Letöltési hiba (https://napphub.kozut.hu/hub-web//datex2/2_3/7b21743f-fd9f-43d1-9b5e-77e3eb714c06/getDatex2Data): 503 Server Error: Service Unavailable for url: https://napphub.kozut.hu/hub-web//datex2/2_3/7b21743f-fd9f-43d1-9b5e-77e3eb714c06/getDatex2Data
 2026-04-23 22:06:35,520  WARNING   Dinamikus feed nem elérhető, kihagyás.
+2026-04-23 23:00:40,204  INFO      NAP Hub P+R parkoló monitor indul. [EGYSZERI MÓD]
+2026-04-23 23:00:40,205  INFO      Statikus feed : https://napphub.kozut.hu/hub-web//datex2/2_3/a0db40f1-6bc2-4059-853a-64eb91a45e9c/getDatex2Data
+2026-04-23 23:00:40,205  INFO      Dinamikus feed: https://napphub.kozut.hu/hub-web//datex2/2_3/7b21743f-fd9f-43d1-9b5e-77e3eb714c06/getDatex2Data
+2026-04-23 23:00:40,205  INFO      === Lekérdezés indul ===
+2026-04-23 23:00:50,221  ERROR     Letöltési hiba (https://napphub.kozut.hu/hub-web//datex2/2_3/a0db40f1-6bc2-4059-853a-64eb91a45e9c/getDatex2Data): HTTPSConnectionPool(host='napphub.kozut.hu', port=443): Max retries exceeded with url: /hub-web//datex2/2_3/a0db40f1-6bc2-4059-853a-64eb91a45e9c/getDatex2Data (Caused by NameResolutionError("HTTPSConnection(host='napphub.kozut.hu', port=443): Failed to resolve 'napphub.kozut.hu' ([Errno -3] Temporary failure in name resolution)"))
+2026-04-23 23:00:50,221  WARNING   Statikus feed nem elérhető, üres kapacitásokkal folytatjuk.
+2026-04-23 23:01:00,239  ERROR     Letöltési hiba (https://napphub.kozut.hu/hub-web//datex2/2_3/7b21743f-fd9f-43d1-9b5e-77e3eb714c06/getDatex2Data): HTTPSConnectionPool(host='napphub.kozut.hu', port=443): Max retries exceeded with url: /hub-web//datex2/2_3/7b21743f-fd9f-43d1-9b5e-77e3eb714c06/getDatex2Data (Caused by NameResolutionError("HTTPSConnection(host='napphub.kozut.hu', port=443): Failed to resolve 'napphub.kozut.hu' ([Errno -3] Temporary failure in name resolution)"))
+2026-04-23 23:01:00,239  WARNING   Dinamikus feed nem elérhető, kihagyás.
