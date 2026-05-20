@@ -14262,3 +14262,21 @@
 2026-05-20 08:03:20,756  INFO      Változás – Cinkota P+R parkoló (Ostoros út) [P221]: -38 (volt: 40, most: 2)
 2026-05-20 08:03:20,827  INFO      Változás – Múzeum Mélygarázs [P251]: -113 (volt: 478, most: 365)
 2026-05-20 08:03:21,698  INFO      Excel frissítve: parking_log.xlsx (7287 sor)
+2026-05-20 11:15:02,796  INFO      NAP Hub P+R parkoló monitor indul. [EGYSZERI MÓD]
+2026-05-20 11:15:02,796  INFO      Statikus feed : https://napphub.kozut.hu/hub-web//datex2/2_3/a0db40f1-6bc2-4059-853a-64eb91a45e9c/getDatex2Data
+2026-05-20 11:15:02,796  INFO      Dinamikus feed: https://napphub.kozut.hu/hub-web//datex2/2_3/7b21743f-fd9f-43d1-9b5e-77e3eb714c06/getDatex2Data
+2026-05-20 11:15:02,796  INFO      === Lekérdezés indul ===
+2026-05-20 11:15:19,528  INFO      Statikus adatok: 16 parkoló beolvasva.
+2026-05-20 11:15:24,393  INFO      Dinamikus adatok: 16 parkoló beolvasva.
+2026-05-20 11:15:24,394  INFO      JSON mentve: parking_data.json (16 rekord)
+2026-05-20 11:15:25,262  INFO      Változás – Kőbánya-Kispest P+R parkoló [P051]: +1 (volt: 1, most: 2)
+2026-05-20 11:15:25,332  INFO      Változás – KÖKI Terminál P+R parkolóház [P061]: -4 (volt: 21, most: 17)
+2026-05-20 11:15:25,410  INFO      Változás – Rákóczi tér mélygarázs [P071]: -6 (volt: 20, most: 14)
+2026-05-20 11:15:25,548  INFO      Változás – Etele P2 P+R parkoló [P111]: -1 (volt: 1, most: 0)
+2026-05-20 11:15:25,612  INFO      Változás – Őrmező P1 P+R parkoló [P121]: +6 (volt: 0, most: 6)
+2026-05-20 11:15:25,738  INFO      Változás – Pillangó utca (Albertirsai út) [P141]: +1 (volt: 0, most: 1)
+2026-05-20 11:15:25,977  INFO      Változás – Hűvösvölgy P2 [P201]: +1 (volt: 0, most: 1)
+2026-05-20 11:15:26,037  INFO      Változás – Csepel P+R [P211]: +1 (volt: 1, most: 2)
+2026-05-20 11:15:26,099  INFO      Változás – Cinkota P+R parkoló (Ostoros út) [P221]: +3 (volt: 2, most: 5)
+2026-05-20 11:15:26,165  INFO      Változás – Múzeum Mélygarázs [P251]: -56 (volt: 365, most: 309)
+2026-05-20 11:15:27,021  INFO      Excel frissítve: parking_log.xlsx (7303 sor)
