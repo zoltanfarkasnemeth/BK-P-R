@@ -15874,3 +15874,21 @@
 2026-06-01 21:44:26,870  INFO      Változás – Cinkota P+R parkoló (Ostoros út) [P221]: +3 (volt: 52, most: 55)
 2026-06-01 21:44:26,940  INFO      Változás – Múzeum Mélygarázs [P251]: +10 (volt: 492, most: 502)
 2026-06-01 21:44:27,912  INFO      Excel frissítve: parking_log.xlsx (8273 sor)
+2026-06-01 23:15:58,836  INFO      NAP Hub P+R parkoló monitor indul. [EGYSZERI MÓD]
+2026-06-01 23:15:58,836  INFO      Statikus feed : https://napphub.kozut.hu/hub-web//datex2/2_3/a0db40f1-6bc2-4059-853a-64eb91a45e9c/getDatex2Data
+2026-06-01 23:15:58,836  INFO      Dinamikus feed: https://napphub.kozut.hu/hub-web//datex2/2_3/7b21743f-fd9f-43d1-9b5e-77e3eb714c06/getDatex2Data
+2026-06-01 23:15:58,836  INFO      === Lekérdezés indul ===
+2026-06-01 23:16:10,174  INFO      Statikus adatok: 15 parkoló beolvasva.
+2026-06-01 23:16:10,882  INFO      Dinamikus adatok: 15 parkoló beolvasva.
+2026-06-01 23:16:10,883  INFO      JSON mentve: parking_data.json (15 rekord)
+2026-06-01 23:16:11,927  INFO      Változás – Kőbánya-Kispest P+R parkoló [P051]: +1 (volt: 199, most: 200)
+2026-06-01 23:16:11,992  INFO      Változás – KÖKI Terminál P+R parkolóház [P061]: +2 (volt: 272, most: 274)
+2026-06-01 23:16:12,126  INFO      Változás – Etele P1 P+R parkoló [P101]: +3 (volt: 212, most: 215)
+2026-06-01 23:16:12,193  INFO      Változás – Etele P2 P+R parkoló [P111]: +1 (volt: 203, most: 204)
+2026-06-01 23:16:12,264  INFO      Változás – Őrmező P1 P+R parkoló [P121]: +1 (volt: 426, most: 427)
+2026-06-01 23:16:12,343  INFO      Változás – Őrmező P2 P+R parkoló [P131]: +3 (volt: 477, most: 480)
+2026-06-01 23:16:12,481  INFO      Változás – Pillangó utca (Metró bejárat) [P151]: +2 (volt: 34, most: 36)
+2026-06-01 23:16:12,548  INFO      Változás – Margitsziget északi fizető parkoló [P171]: -1 (volt: 274, most: 273)
+2026-06-01 23:16:12,620  INFO      Változás – Örs vezér tere [P191]: +2 (volt: 238, most: 240)
+2026-06-01 23:16:12,820  INFO      Változás – Múzeum Mélygarázs [P251]: +1 (volt: 502, most: 503)
+2026-06-01 23:16:13,863  INFO      Excel frissítve: parking_log.xlsx (8288 sor)
