@@ -16235,3 +16235,27 @@
 2026-06-04 14:15:17,133  INFO      Változás – Cinkota P+R parkoló (Ostoros út) [P221]: -3 (volt: 22, most: 19)
 2026-06-04 14:15:17,211  INFO      Változás – Múzeum Mélygarázs [P251]: +24 (volt: 350, most: 374)
 2026-06-04 14:15:18,308  INFO      Excel frissítve: parking_log.xlsx (8543 sor)
+2026-06-04 17:22:38,323  INFO      NAP Hub P+R parkoló monitor indul. [EGYSZERI MÓD]
+2026-06-04 17:22:38,323  INFO      Statikus feed : https://napphub.kozut.hu/hub-web//datex2/2_3/a0db40f1-6bc2-4059-853a-64eb91a45e9c/getDatex2Data
+2026-06-04 17:22:38,323  INFO      Dinamikus feed: https://napphub.kozut.hu/hub-web//datex2/2_3/7b21743f-fd9f-43d1-9b5e-77e3eb714c06/getDatex2Data
+2026-06-04 17:22:38,323  INFO      === Lekérdezés indul ===
+2026-06-04 17:22:50,677  INFO      Statikus adatok: 16 parkoló beolvasva.
+2026-06-04 17:22:56,666  INFO      Dinamikus adatok: 16 parkoló beolvasva.
+2026-06-04 17:22:56,666  INFO      JSON mentve: parking_data.json (16 rekord)
+2026-06-04 17:22:57,409  INFO      Változás – Újpest P+R parkoló [P031]: +59 (volt: 14, most: 73)
+2026-06-04 17:22:57,475  INFO      Változás – Kőbánya-Kispest P+R parkoló [P051]: +103 (volt: 31, most: 134)
+2026-06-04 17:22:57,538  INFO      Változás – KÖKI Terminál P+R parkolóház [P061]: +147 (volt: 65, most: 212)
+2026-06-04 17:22:57,601  INFO      Változás – Rákóczi tér mélygarázs [P071]: +7 (volt: 31, most: 38)
+2026-06-04 17:22:57,660  INFO      Változás – Etele P1 P+R parkoló [P101]: +72 (volt: 34, most: 106)
+2026-06-04 17:22:57,720  INFO      Változás – Etele P2 P+R parkoló [P111]: +101 (volt: 32, most: 133)
+2026-06-04 17:22:57,779  INFO      Változás – Őrmező P1 P+R parkoló [P121]: +191 (volt: 85, most: 276)
+2026-06-04 17:22:57,838  INFO      Változás – Őrmező P2 P+R parkoló [P131]: +173 (volt: 94, most: 267)
+2026-06-04 17:22:57,896  INFO      Változás – Pillangó utca (Albertirsai út) [P141]: +37 (volt: 13, most: 50)
+2026-06-04 17:22:57,955  INFO      Változás – Pillangó utca (Metró bejárat) [P151]: +4 (volt: 6, most: 10)
+2026-06-04 17:22:58,012  INFO      Változás – Margitsziget északi fizető parkoló [P171]: -126 (volt: 191, most: 65)
+2026-06-04 17:22:58,071  INFO      Változás – Örs vezér tere [P191]: +104 (volt: 11, most: 115)
+2026-06-04 17:22:58,130  INFO      Változás – Hűvösvölgy P2 [P201]: +12 (volt: 2, most: 14)
+2026-06-04 17:22:58,190  INFO      Változás – Csepel P+R [P211]: -8 (volt: 11, most: 3)
+2026-06-04 17:22:58,250  INFO      Változás – Cinkota P+R parkoló (Ostoros út) [P221]: +29 (volt: 19, most: 48)
+2026-06-04 17:22:58,315  INFO      Változás – Múzeum Mélygarázs [P251]: -6 (volt: 374, most: 368)
+2026-06-04 17:22:59,113  INFO      Excel frissítve: parking_log.xlsx (8559 sor)
