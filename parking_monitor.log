@@ -18344,3 +18344,21 @@
 2026-06-19 23:38:30,411  INFO      Változás – Hűvösvölgy P2 [P201]: -1 (volt: 25, most: 24)
 2026-06-19 23:38:30,691  INFO      Változás – Múzeum Mélygarázs [P251]: +6 (volt: 536, most: 542)
 2026-06-19 23:38:31,990  INFO      Excel frissítve: parking_log.xlsx (10028 sor)
+2026-06-20 01:36:54,248  INFO      NAP Hub P+R parkoló monitor indul. [EGYSZERI MÓD]
+2026-06-20 01:36:54,248  INFO      Statikus feed : https://napphub.kozut.hu/hub-web//datex2/2_3/a0db40f1-6bc2-4059-853a-64eb91a45e9c/getDatex2Data
+2026-06-20 01:36:54,248  INFO      Dinamikus feed: https://napphub.kozut.hu/hub-web//datex2/2_3/7b21743f-fd9f-43d1-9b5e-77e3eb714c06/getDatex2Data
+2026-06-20 01:36:54,248  INFO      === Lekérdezés indul ===
+2026-06-20 01:37:15,929  INFO      Statikus adatok: 16 parkoló beolvasva.
+2026-06-20 01:37:21,400  INFO      Dinamikus adatok: 16 parkoló beolvasva.
+2026-06-20 01:37:21,401  INFO      JSON mentve: parking_data.json (16 rekord)
+2026-06-20 01:37:22,811  INFO      Változás – Kőbánya-Kispest P+R parkoló [P051]: +1 (volt: 188, most: 189)
+2026-06-20 01:37:22,918  INFO      Változás – KÖKI Terminál P+R parkolóház [P061]: +1 (volt: 261, most: 262)
+2026-06-20 01:37:23,024  INFO      Változás – Rákóczi tér mélygarázs [P071]: -1 (volt: 47, most: 46)
+2026-06-20 01:37:23,128  INFO      Változás – Etele P1 P+R parkoló [P101]: -1 (volt: 226, most: 225)
+2026-06-20 01:37:23,237  INFO      Változás – Etele P2 P+R parkoló [P111]: -1 (volt: 195, most: 194)
+2026-06-20 01:37:23,449  INFO      Változás – Őrmező P2 P+R parkoló [P131]: +3 (volt: 426, most: 429)
+2026-06-20 01:37:23,875  INFO      Változás – Örs vezér tere [P191]: -1 (volt: 240, most: 239)
+2026-06-20 01:37:23,982  INFO      Változás – Hűvösvölgy P2 [P201]: +1 (volt: 24, most: 25)
+2026-06-20 01:37:24,089  INFO      Változás – Csepel P+R [P211]: -2 (volt: 3, most: 1)
+2026-06-20 01:37:24,299  INFO      Változás – Múzeum Mélygarázs [P251]: +3 (volt: 542, most: 545)
+2026-06-20 01:37:25,624  INFO      Excel frissítve: parking_log.xlsx (10044 sor)
