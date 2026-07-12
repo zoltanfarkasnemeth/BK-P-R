@@ -21907,3 +21907,21 @@
 2026-07-12 21:10:09,843  INFO      Dinamikus adatok: 16 parkoló beolvasva.
 2026-07-12 21:10:09,843  INFO      JSON mentve: parking_data.json (16 rekord)
 2026-07-12 21:10:14,649  INFO      Excel frissítve: parking_log.xlsx (12200 sor)
+2026-07-12 22:03:56,119  INFO      NAP Hub P+R parkoló monitor indul. [EGYSZERI MÓD]
+2026-07-12 22:03:56,120  INFO      Statikus feed : https://napphub.kozut.hu/hub-web//datex2/2_3/a0db40f1-6bc2-4059-853a-64eb91a45e9c/getDatex2Data
+2026-07-12 22:03:56,120  INFO      Dinamikus feed: https://napphub.kozut.hu/hub-web//datex2/2_3/7b21743f-fd9f-43d1-9b5e-77e3eb714c06/getDatex2Data
+2026-07-12 22:03:56,120  INFO      === Lekérdezés indul ===
+2026-07-12 22:04:12,998  INFO      Statikus adatok: 10 parkoló beolvasva.
+2026-07-12 22:04:18,633  INFO      Dinamikus adatok: 10 parkoló beolvasva.
+2026-07-12 22:04:18,634  INFO      JSON mentve: parking_data.json (10 rekord)
+2026-07-12 22:04:20,137  INFO      Változás – Újpest P+R parkoló [P031]: +1 (volt: 84, most: 85)
+2026-07-12 22:04:20,249  INFO      Változás – KÖKI Terminál P+R parkolóház [P061]: +33 (volt: 237, most: 270)
+2026-07-12 22:04:20,359  INFO      Változás – Rákóczi tér mélygarázs [P071]: -6 (volt: 50, most: 44)
+2026-07-12 22:04:20,473  INFO      Változás – Etele P2 P+R parkoló [P111]: +23 (volt: 178, most: 201)
+2026-07-12 22:04:20,589  INFO      Változás – Őrmező P2 P+R parkoló [P131]: +112 (volt: 344, most: 456)
+2026-07-12 22:04:20,692  INFO      Változás – Pillangó utca (Albertirsai út) [P141]: +1 (volt: 71, most: 72)
+2026-07-12 22:04:20,804  INFO      Változás – Margitsziget északi fizető parkoló [P171]: +234 (volt: 34, most: 268)
+2026-07-12 22:04:20,918  INFO      Változás – Örs vezér tere [P191]: +49 (volt: 191, most: 240)
+2026-07-12 22:04:21,027  INFO      Változás – Csepel P+R [P211]: +1 (volt: 0, most: 1)
+2026-07-12 22:04:21,142  INFO      Változás – Múzeum Mélygarázs [P251]: +141 (volt: 383, most: 524)
+2026-07-12 22:04:22,775  INFO      Excel frissítve: parking_log.xlsx (12210 sor)
