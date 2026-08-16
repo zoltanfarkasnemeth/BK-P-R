@@ -30720,3 +30720,21 @@
 2026-08-16 22:41:54,994  INFO      Dinamikus adatok: 16 parkoló beolvasva.
 2026-08-16 22:41:54,994  INFO      JSON mentve: parking_data.json (16 rekord)
 2026-08-16 22:42:02,192  INFO      Excel frissítve: parking_log.xlsx (18537 sor)
+2026-08-16 22:55:34,863  INFO      NAP Hub P+R parkoló monitor indul. [EGYSZERI MÓD]
+2026-08-16 22:55:34,863  INFO      Statikus feed : https://napphub.kozut.hu/hub-web//datex2/2_3/a0db40f1-6bc2-4059-853a-64eb91a45e9c/getDatex2Data
+2026-08-16 22:55:34,863  INFO      Dinamikus feed: https://napphub.kozut.hu/hub-web//datex2/2_3/7b21743f-fd9f-43d1-9b5e-77e3eb714c06/getDatex2Data
+2026-08-16 22:55:34,863  INFO      === Lekérdezés indul ===
+2026-08-16 22:55:56,584  INFO      Statikus adatok: 16 parkoló beolvasva.
+2026-08-16 22:56:01,936  INFO      Dinamikus adatok: 16 parkoló beolvasva.
+2026-08-16 22:56:01,937  INFO      JSON mentve: parking_data.json (16 rekord)
+2026-08-16 22:56:04,603  INFO      Változás – Kőbánya-Kispest P+R parkoló [P051]: +7 (volt: 186, most: 193)
+2026-08-16 22:56:04,813  INFO      Változás – KÖKI Terminál P+R parkolóház [P061]: +3 (volt: 267, most: 270)
+2026-08-16 22:56:05,211  INFO      Változás – Etele P1 P+R parkoló [P101]: +2 (volt: 212, most: 214)
+2026-08-16 22:56:05,416  INFO      Változás – Etele P2 P+R parkoló [P111]: -1 (volt: 207, most: 206)
+2026-08-16 22:56:05,620  INFO      Változás – Őrmező P1 P+R parkoló [P121]: +3 (volt: 418, most: 421)
+2026-08-16 22:56:05,814  INFO      Változás – Őrmező P2 P+R parkoló [P131]: +4 (volt: 422, most: 426)
+2026-08-16 22:56:06,207  INFO      Változás – Pillangó utca (Metró bejárat) [P151]: +2 (volt: 25, most: 27)
+2026-08-16 22:56:06,598  INFO      Változás – Örs vezér tere [P191]: +4 (volt: 226, most: 230)
+2026-08-16 22:56:07,169  INFO      Változás – Cinkota P+R parkoló (Ostoros út) [P221]: +2 (volt: 40, most: 42)
+2026-08-16 22:56:07,357  INFO      Változás – Múzeum Mélygarázs [P251]: -3 (volt: 529, most: 526)
+2026-08-16 22:56:09,865  INFO      Excel frissítve: parking_log.xlsx (18553 sor)
