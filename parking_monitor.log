@@ -32091,3 +32091,15 @@
 2026-08-18 22:41:01,936  INFO      Változás – Hűvösvölgy P2 [P201]: +1 (volt: 37, most: 38)
 2026-08-18 22:41:02,108  INFO      Változás – Csepel P+R [P211]: -4 (volt: 4, most: 0)
 2026-08-18 22:41:04,228  INFO      Excel frissítve: parking_log.xlsx (19544 sor)
+2026-08-18 22:57:29,886  INFO      NAP Hub P+R parkoló monitor indul. [EGYSZERI MÓD]
+2026-08-18 22:57:29,886  INFO      Statikus feed : https://napphub.kozut.hu/hub-web//datex2/2_3/a0db40f1-6bc2-4059-853a-64eb91a45e9c/getDatex2Data
+2026-08-18 22:57:29,887  INFO      Dinamikus feed: https://napphub.kozut.hu/hub-web//datex2/2_3/7b21743f-fd9f-43d1-9b5e-77e3eb714c06/getDatex2Data
+2026-08-18 22:57:29,887  INFO      === Lekérdezés indul ===
+2026-08-18 22:57:51,582  INFO      Statikus adatok: 15 parkoló beolvasva.
+2026-08-18 22:57:56,943  INFO      Dinamikus adatok: 15 parkoló beolvasva.
+2026-08-18 22:57:56,944  INFO      JSON mentve: parking_data.json (15 rekord)
+2026-08-18 22:57:59,530  INFO      Változás – Kőbánya-Kispest P+R parkoló [P051]: +1 (volt: 181, most: 182)
+2026-08-18 22:58:00,183  INFO      Változás – Etele P1 P+R parkoló [P101]: +2 (volt: 207, most: 209)
+2026-08-18 22:58:00,608  INFO      Változás – Őrmező P1 P+R parkoló [P121]: +1 (volt: 404, most: 405)
+2026-08-18 22:58:00,828  INFO      Változás – Őrmező P2 P+R parkoló [P131]: +2 (volt: 396, most: 398)
+2026-08-18 22:58:04,720  INFO      Excel frissítve: parking_log.xlsx (19559 sor)
