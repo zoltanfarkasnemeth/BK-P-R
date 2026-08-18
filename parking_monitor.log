@@ -32103,3 +32103,16 @@
 2026-08-18 22:58:00,608  INFO      Változás – Őrmező P1 P+R parkoló [P121]: +1 (volt: 404, most: 405)
 2026-08-18 22:58:00,828  INFO      Változás – Őrmező P2 P+R parkoló [P131]: +2 (volt: 396, most: 398)
 2026-08-18 22:58:04,720  INFO      Excel frissítve: parking_log.xlsx (19559 sor)
+2026-08-18 23:15:48,781  INFO      NAP Hub P+R parkoló monitor indul. [EGYSZERI MÓD]
+2026-08-18 23:15:48,781  INFO      Statikus feed : https://napphub.kozut.hu/hub-web//datex2/2_3/a0db40f1-6bc2-4059-853a-64eb91a45e9c/getDatex2Data
+2026-08-18 23:15:48,782  INFO      Dinamikus feed: https://napphub.kozut.hu/hub-web//datex2/2_3/7b21743f-fd9f-43d1-9b5e-77e3eb714c06/getDatex2Data
+2026-08-18 23:15:48,782  INFO      === Lekérdezés indul ===
+2026-08-18 23:15:59,028  INFO      Statikus adatok: 15 parkoló beolvasva.
+2026-08-18 23:15:59,611  INFO      Dinamikus adatok: 15 parkoló beolvasva.
+2026-08-18 23:15:59,612  INFO      JSON mentve: parking_data.json (15 rekord)
+2026-08-18 23:16:01,471  INFO      Változás – Újpest P+R parkoló [P031]: +1 (volt: 78, most: 79)
+2026-08-18 23:16:01,635  INFO      Változás – Kőbánya-Kispest P+R parkoló [P051]: -1 (volt: 182, most: 181)
+2026-08-18 23:16:02,465  INFO      Változás – Őrmező P1 P+R parkoló [P121]: +1 (volt: 405, most: 406)
+2026-08-18 23:16:02,627  INFO      Változás – Őrmező P2 P+R parkoló [P131]: +1 (volt: 398, most: 399)
+2026-08-18 23:16:03,108  INFO      Változás – Margitsziget északi fizető parkoló [P171]: +2 (volt: 272, most: 274)
+2026-08-18 23:16:05,565  INFO      Excel frissítve: parking_log.xlsx (19574 sor)
