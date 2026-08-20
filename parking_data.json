@@ -3,111 +3,111 @@
     "id": "P031",
     "nev": "Újpest P+R parkoló",
     "kapacitas_osszes": 99,
-    "szabad_helyek": 78,
-    "foglalt_helyek": 21,
+    "szabad_helyek": 76,
+    "foglalt_helyek": 23,
     "latitude": 47.558212,
     "longitude": 19.07823,
-    "meres_ideje": "2026-08-20T13:43:43+02:00",
-    "lekerdezes_ideje": "2026-08-20T11:56:26"
+    "meres_ideje": "2026-08-20T15:17:45+02:00",
+    "lekerdezes_ideje": "2026-08-20T13:25:22"
   },
   {
     "id": "P051",
     "nev": "Kőbánya-Kispest P+R parkoló",
     "kapacitas_osszes": 206,
-    "szabad_helyek": 62,
-    "foglalt_helyek": 144,
+    "szabad_helyek": 56,
+    "foglalt_helyek": 150,
     "latitude": 47.46426,
     "longitude": 19.145142,
-    "meres_ideje": "2026-08-20T13:43:43+02:00",
-    "lekerdezes_ideje": "2026-08-20T11:56:26"
+    "meres_ideje": "2026-08-20T15:17:45+02:00",
+    "lekerdezes_ideje": "2026-08-20T13:25:22"
   },
   {
     "id": "P061",
     "nev": "KÖKI Terminál P+R parkolóház",
     "kapacitas_osszes": 330,
-    "szabad_helyek": 230,
-    "foglalt_helyek": 100,
+    "szabad_helyek": 227,
+    "foglalt_helyek": 103,
     "latitude": 47.46332,
     "longitude": 19.146208,
-    "meres_ideje": "2026-08-20T13:43:43+02:00",
-    "lekerdezes_ideje": "2026-08-20T11:56:26"
+    "meres_ideje": "2026-08-20T15:17:45+02:00",
+    "lekerdezes_ideje": "2026-08-20T13:25:22"
   },
   {
     "id": "P071",
     "nev": "Rákóczi tér mélygarázs",
     "kapacitas_osszes": 98,
-    "szabad_helyek": 41,
-    "foglalt_helyek": 57,
+    "szabad_helyek": 37,
+    "foglalt_helyek": 61,
     "latitude": 47.493107,
     "longitude": 19.071945,
-    "meres_ideje": "2026-08-20T13:36:30+02:00",
-    "lekerdezes_ideje": "2026-08-20T11:56:26"
+    "meres_ideje": "2026-08-20T15:11:34+02:00",
+    "lekerdezes_ideje": "2026-08-20T13:25:22"
   },
   {
     "id": "P101",
     "nev": "Etele P1 P+R parkoló",
     "kapacitas_osszes": 247,
-    "szabad_helyek": 57,
-    "foglalt_helyek": 190,
+    "szabad_helyek": 62,
+    "foglalt_helyek": 185,
     "latitude": 47.46328,
     "longitude": 19.023825,
-    "meres_ideje": "2026-08-20T13:43:43+02:00",
-    "lekerdezes_ideje": "2026-08-20T11:56:26"
+    "meres_ideje": "2026-08-20T15:17:45+02:00",
+    "lekerdezes_ideje": "2026-08-20T13:25:22"
   },
   {
     "id": "P111",
     "nev": "Etele P2 P+R parkoló",
     "kapacitas_osszes": 221,
-    "szabad_helyek": 101,
-    "foglalt_helyek": 120,
+    "szabad_helyek": 92,
+    "foglalt_helyek": 129,
     "latitude": 47.462627,
     "longitude": 19.022522,
-    "meres_ideje": "2026-08-20T13:43:43+02:00",
-    "lekerdezes_ideje": "2026-08-20T11:56:26"
+    "meres_ideje": "2026-08-20T15:17:45+02:00",
+    "lekerdezes_ideje": "2026-08-20T13:25:22"
   },
   {
     "id": "P121",
     "nev": "Őrmező P1 P+R parkoló",
     "kapacitas_osszes": 485,
-    "szabad_helyek": 232,
-    "foglalt_helyek": 253,
+    "szabad_helyek": 221,
+    "foglalt_helyek": 264,
     "latitude": 47.463947,
     "longitude": 19.017702,
-    "meres_ideje": "2026-08-20T13:43:43+02:00",
-    "lekerdezes_ideje": "2026-08-20T11:56:26"
+    "meres_ideje": "2026-08-20T15:17:45+02:00",
+    "lekerdezes_ideje": "2026-08-20T13:25:22"
   },
   {
     "id": "P131",
     "nev": "Őrmező P2 P+R parkoló",
     "kapacitas_osszes": 500,
-    "szabad_helyek": 142,
-    "foglalt_helyek": 358,
+    "szabad_helyek": 156,
+    "foglalt_helyek": 344,
     "latitude": 47.46288,
     "longitude": 19.01936,
-    "meres_ideje": "2026-08-20T13:43:43+02:00",
-    "lekerdezes_ideje": "2026-08-20T11:56:26"
+    "meres_ideje": "2026-08-20T15:17:45+02:00",
+    "lekerdezes_ideje": "2026-08-20T13:25:22"
   },
   {
     "id": "P141",
     "nev": "Pillangó utca (Albertirsai út)",
     "kapacitas_osszes": 76,
-    "szabad_helyek": 42,
-    "foglalt_helyek": 34,
+    "szabad_helyek": 47,
+    "foglalt_helyek": 29,
     "latitude": 47.5009,
     "longitude": 19.117083,
-    "meres_ideje": "2026-08-20T13:43:43+02:00",
-    "lekerdezes_ideje": "2026-08-20T11:56:26"
+    "meres_ideje": "2026-08-20T15:17:45+02:00",
+    "lekerdezes_ideje": "2026-08-20T13:25:22"
   },
   {
     "id": "P151",
     "nev": "Pillangó utca (Metró bejárat)",
     "kapacitas_osszes": 45,
-    "szabad_helyek": 4,
-    "foglalt_helyek": 41,
+    "szabad_helyek": 2,
+    "foglalt_helyek": 43,
     "latitude": 47.50098,
     "longitude": 19.117624,
-    "meres_ideje": "2026-08-20T13:43:43+02:00",
-    "lekerdezes_ideje": "2026-08-20T11:56:26"
+    "meres_ideje": "2026-08-20T15:17:45+02:00",
+    "lekerdezes_ideje": "2026-08-20T13:25:22"
   },
   {
     "id": "P171",
@@ -117,62 +117,62 @@
     "foglalt_helyek": 278,
     "latitude": 47.534935,
     "longitude": 19.053337,
-    "meres_ideje": "2026-08-20T13:42:10+02:00",
-    "lekerdezes_ideje": "2026-08-20T11:56:26"
+    "meres_ideje": "2026-08-20T15:17:14+02:00",
+    "lekerdezes_ideje": "2026-08-20T13:25:22"
   },
   {
     "id": "P191",
     "nev": "Örs vezér tere",
     "kapacitas_osszes": 265,
-    "szabad_helyek": 58,
-    "foglalt_helyek": 207,
+    "szabad_helyek": 59,
+    "foglalt_helyek": 206,
     "latitude": 47.50191,
     "longitude": 19.135065,
-    "meres_ideje": "2026-08-20T13:43:43+02:00",
-    "lekerdezes_ideje": "2026-08-20T11:56:26"
+    "meres_ideje": "2026-08-20T15:17:45+02:00",
+    "lekerdezes_ideje": "2026-08-20T13:25:22"
   },
   {
     "id": "P201",
     "nev": "Hűvösvölgy P2",
     "kapacitas_osszes": 80,
-    "szabad_helyek": 11,
-    "foglalt_helyek": 69,
+    "szabad_helyek": 16,
+    "foglalt_helyek": 64,
     "latitude": 47.54156,
     "longitude": 18.965647,
-    "meres_ideje": "2026-08-20T13:43:12+02:00",
-    "lekerdezes_ideje": "2026-08-20T11:56:26"
+    "meres_ideje": "2026-08-20T15:17:14+02:00",
+    "lekerdezes_ideje": "2026-08-20T13:25:22"
   },
   {
     "id": "P211",
     "nev": "Csepel P+R",
     "kapacitas_osszes": 104,
-    "szabad_helyek": 14,
-    "foglalt_helyek": 90,
+    "szabad_helyek": 18,
+    "foglalt_helyek": 86,
     "latitude": 47.421543,
     "longitude": 19.067772,
-    "meres_ideje": "2026-08-20T13:35:59+02:00",
-    "lekerdezes_ideje": "2026-08-20T11:56:26"
+    "meres_ideje": "2026-08-20T15:11:04+02:00",
+    "lekerdezes_ideje": "2026-08-20T13:25:22"
   },
   {
     "id": "P221",
     "nev": "Cinkota P+R parkoló (Ostoros út)",
     "kapacitas_osszes": 165,
-    "szabad_helyek": 61,
-    "foglalt_helyek": 104,
+    "szabad_helyek": 57,
+    "foglalt_helyek": 108,
     "latitude": 47.520844,
     "longitude": 19.219007,
-    "meres_ideje": "2026-08-20T13:35:59+02:00",
-    "lekerdezes_ideje": "2026-08-20T11:56:26"
+    "meres_ideje": "2026-08-20T15:12:05+02:00",
+    "lekerdezes_ideje": "2026-08-20T13:25:22"
   },
   {
     "id": "P251",
     "nev": "Múzeum Mélygarázs",
     "kapacitas_osszes": 710,
-    "szabad_helyek": 325,
-    "foglalt_helyek": 385,
+    "szabad_helyek": 319,
+    "foglalt_helyek": 391,
     "latitude": 47.509594,
     "longitude": 19.083073,
-    "meres_ideje": "2026-08-20T13:37:31+02:00",
-    "lekerdezes_ideje": "2026-08-20T11:56:26"
+    "meres_ideje": "2026-08-20T15:12:36+02:00",
+    "lekerdezes_ideje": "2026-08-20T13:25:22"
   }
 ]
