@@ -34306,3 +34306,22 @@
 2026-08-22 11:48:27,904  INFO      Változás – Hűvösvölgy P2 [P201]: +5 (volt: 13, most: 18)
 2026-08-22 11:48:28,553  INFO      Változás – Múzeum Mélygarázs [P251]: +2 (volt: 315, most: 317)
 2026-08-22 11:48:31,235  INFO      Excel frissítve: parking_log.xlsx (21378 sor)
+2026-08-22 11:59:55,129  INFO      NAP Hub P+R parkoló monitor indul. [EGYSZERI MÓD]
+2026-08-22 11:59:55,129  INFO      Statikus feed : https://napphub.kozut.hu/hub-web//datex2/2_3/a0db40f1-6bc2-4059-853a-64eb91a45e9c/getDatex2Data
+2026-08-22 11:59:55,130  INFO      Dinamikus feed: https://napphub.kozut.hu/hub-web//datex2/2_3/7b21743f-fd9f-43d1-9b5e-77e3eb714c06/getDatex2Data
+2026-08-22 11:59:55,130  INFO      === Lekérdezés indul ===
+2026-08-22 12:00:12,196  INFO      Statikus adatok: 16 parkoló beolvasva.
+2026-08-22 12:00:13,093  INFO      Dinamikus adatok: 16 parkoló beolvasva.
+2026-08-22 12:00:13,094  INFO      JSON mentve: parking_data.json (16 rekord)
+2026-08-22 12:00:16,187  INFO      Változás – KÖKI Terminál P+R parkolóház [P061]: +2 (volt: 221, most: 223)
+2026-08-22 12:00:16,594  INFO      Változás – Etele P1 P+R parkoló [P101]: -1 (volt: 97, most: 96)
+2026-08-22 12:00:16,799  INFO      Változás – Etele P2 P+R parkoló [P111]: -1 (volt: 143, most: 142)
+2026-08-22 12:00:17,002  INFO      Változás – Őrmező P1 P+R parkoló [P121]: -1 (volt: 303, most: 302)
+2026-08-22 12:00:17,207  INFO      Változás – Őrmező P2 P+R parkoló [P131]: -4 (volt: 283, most: 279)
+2026-08-22 12:00:17,612  INFO      Változás – Pillangó utca (Metró bejárat) [P151]: +1 (volt: 16, most: 17)
+2026-08-22 12:00:17,820  INFO      Változás – Margitsziget északi fizető parkoló [P171]: -1 (volt: 70, most: 69)
+2026-08-22 12:00:18,022  INFO      Változás – Örs vezér tere [P191]: -2 (volt: 155, most: 153)
+2026-08-22 12:00:18,225  INFO      Változás – Hűvösvölgy P2 [P201]: +2 (volt: 18, most: 20)
+2026-08-22 12:00:18,426  INFO      Változás – Csepel P+R [P211]: -2 (volt: 7, most: 5)
+2026-08-22 12:00:18,832  INFO      Változás – Múzeum Mélygarázs [P251]: +11 (volt: 317, most: 328)
+2026-08-22 12:00:21,728  INFO      Excel frissítve: parking_log.xlsx (21394 sor)
