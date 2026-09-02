@@ -37596,3 +37596,22 @@
 2026-09-02 22:00:33,563  INFO      Változás – Cinkota P+R parkoló (Ostoros út) [P221]: +13 (volt: 64, most: 77)
 2026-09-02 22:00:33,790  INFO      Változás – Múzeum Mélygarázs [P251]: +60 (volt: 428, most: 488)
 2026-09-02 22:00:36,921  INFO      Excel frissítve: parking_log.xlsx (24066 sor)
+2026-09-02 23:53:45,959  INFO      NAP Hub P+R parkoló monitor indul. [EGYSZERI MÓD]
+2026-09-02 23:53:45,959  INFO      Statikus feed : https://napphub.kozut.hu/hub-web//datex2/2_3/a0db40f1-6bc2-4059-853a-64eb91a45e9c/getDatex2Data
+2026-09-02 23:53:45,960  INFO      Dinamikus feed: https://napphub.kozut.hu/hub-web//datex2/2_3/7b21743f-fd9f-43d1-9b5e-77e3eb714c06/getDatex2Data
+2026-09-02 23:53:45,960  INFO      === Lekérdezés indul ===
+2026-09-02 23:54:02,244  INFO      Statikus adatok: 16 parkoló beolvasva.
+2026-09-02 23:54:07,723  INFO      Dinamikus adatok: 16 parkoló beolvasva.
+2026-09-02 23:54:07,724  INFO      JSON mentve: parking_data.json (16 rekord)
+2026-09-02 23:54:10,800  INFO      Változás – Újpest P+R parkoló [P031]: +2 (volt: 57, most: 59)
+2026-09-02 23:54:11,034  INFO      Változás – Kőbánya-Kispest P+R parkoló [P051]: +2 (volt: 187, most: 189)
+2026-09-02 23:54:11,284  INFO      Változás – KÖKI Terminál P+R parkolóház [P061]: +4 (volt: 275, most: 279)
+2026-09-02 23:54:11,753  INFO      Változás – Etele P1 P+R parkoló [P101]: +2 (volt: 217, most: 219)
+2026-09-02 23:54:11,983  INFO      Változás – Etele P2 P+R parkoló [P111]: +1 (volt: 195, most: 196)
+2026-09-02 23:54:12,220  INFO      Változás – Őrmező P1 P+R parkoló [P121]: +2 (volt: 422, most: 424)
+2026-09-02 23:54:12,462  INFO      Változás – Őrmező P2 P+R parkoló [P131]: +7 (volt: 488, most: 495)
+2026-09-02 23:54:13,188  INFO      Változás – Margitsziget északi fizető parkoló [P171]: +23 (volt: 242, most: 265)
+2026-09-02 23:54:13,419  INFO      Változás – Örs vezér tere [P191]: +1 (volt: 233, most: 234)
+2026-09-02 23:54:13,880  INFO      Változás – Csepel P+R [P211]: -1 (volt: 2, most: 1)
+2026-09-02 23:54:14,339  INFO      Változás – Múzeum Mélygarázs [P251]: -1 (volt: 488, most: 487)
+2026-09-02 23:54:17,459  INFO      Excel frissítve: parking_log.xlsx (24082 sor)
