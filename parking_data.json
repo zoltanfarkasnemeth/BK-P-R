@@ -7,19 +7,19 @@
     "foglalt_helyek": 4,
     "latitude": 47.558212,
     "longitude": 19.07823,
-    "meres_ideje": "2026-09-05T01:07:43+02:00",
-    "lekerdezes_ideje": "2026-09-04T23:18:03"
+    "meres_ideje": "2026-09-05T02:58:45+02:00",
+    "lekerdezes_ideje": "2026-09-05T01:01:43"
   },
   {
     "id": "P051",
     "nev": "Kőbánya-Kispest P+R parkoló",
     "kapacitas_osszes": 206,
-    "szabad_helyek": 199,
-    "foglalt_helyek": 7,
+    "szabad_helyek": 200,
+    "foglalt_helyek": 6,
     "latitude": 47.46426,
     "longitude": 19.145142,
-    "meres_ideje": "2026-09-05T01:07:43+02:00",
-    "lekerdezes_ideje": "2026-09-04T23:18:03"
+    "meres_ideje": "2026-09-05T02:58:45+02:00",
+    "lekerdezes_ideje": "2026-09-05T01:01:43"
   },
   {
     "id": "P061",
@@ -29,8 +29,8 @@
     "foglalt_helyek": 60,
     "latitude": 47.46332,
     "longitude": 19.146208,
-    "meres_ideje": "2026-09-05T01:07:43+02:00",
-    "lekerdezes_ideje": "2026-09-04T23:18:03"
+    "meres_ideje": "2026-09-05T02:58:45+02:00",
+    "lekerdezes_ideje": "2026-09-05T01:01:43"
   },
   {
     "id": "P071",
@@ -40,52 +40,52 @@
     "foglalt_helyek": 61,
     "latitude": 47.493107,
     "longitude": 19.071945,
-    "meres_ideje": "2026-09-05T01:01:15+02:00",
-    "lekerdezes_ideje": "2026-09-04T23:18:03"
+    "meres_ideje": "2026-09-05T02:51:29+02:00",
+    "lekerdezes_ideje": "2026-09-05T01:01:43"
   },
   {
     "id": "P101",
     "nev": "Etele P1 P+R parkoló",
     "kapacitas_osszes": 247,
-    "szabad_helyek": 205,
-    "foglalt_helyek": 42,
+    "szabad_helyek": 207,
+    "foglalt_helyek": 40,
     "latitude": 47.46328,
     "longitude": 19.023825,
-    "meres_ideje": "2026-09-05T01:07:43+02:00",
-    "lekerdezes_ideje": "2026-09-04T23:18:03"
+    "meres_ideje": "2026-09-05T02:58:45+02:00",
+    "lekerdezes_ideje": "2026-09-05T01:01:43"
   },
   {
     "id": "P111",
     "nev": "Etele P2 P+R parkoló",
     "kapacitas_osszes": 221,
-    "szabad_helyek": 202,
-    "foglalt_helyek": 19,
+    "szabad_helyek": 204,
+    "foglalt_helyek": 17,
     "latitude": 47.462627,
     "longitude": 19.022522,
-    "meres_ideje": "2026-09-05T01:07:43+02:00",
-    "lekerdezes_ideje": "2026-09-04T23:18:03"
+    "meres_ideje": "2026-09-05T02:58:45+02:00",
+    "lekerdezes_ideje": "2026-09-05T01:01:43"
   },
   {
     "id": "P121",
     "nev": "Őrmező P1 P+R parkoló",
     "kapacitas_osszes": 485,
-    "szabad_helyek": 413,
-    "foglalt_helyek": 72,
+    "szabad_helyek": 414,
+    "foglalt_helyek": 71,
     "latitude": 47.463947,
     "longitude": 19.017702,
-    "meres_ideje": "2026-09-05T01:07:43+02:00",
-    "lekerdezes_ideje": "2026-09-04T23:18:03"
+    "meres_ideje": "2026-09-05T02:58:45+02:00",
+    "lekerdezes_ideje": "2026-09-05T01:01:43"
   },
   {
     "id": "P131",
     "nev": "Őrmező P2 P+R parkoló",
     "kapacitas_osszes": 500,
-    "szabad_helyek": 466,
-    "foglalt_helyek": 34,
+    "szabad_helyek": 471,
+    "foglalt_helyek": 29,
     "latitude": 47.46288,
     "longitude": 19.01936,
-    "meres_ideje": "2026-09-05T01:07:43+02:00",
-    "lekerdezes_ideje": "2026-09-04T23:18:03"
+    "meres_ideje": "2026-09-05T02:58:45+02:00",
+    "lekerdezes_ideje": "2026-09-05T01:01:43"
   },
   {
     "id": "P141",
@@ -95,8 +95,8 @@
     "foglalt_helyek": 7,
     "latitude": 47.5009,
     "longitude": 19.117083,
-    "meres_ideje": "2026-09-05T01:07:43+02:00",
-    "lekerdezes_ideje": "2026-09-04T23:18:03"
+    "meres_ideje": "2026-09-05T02:58:45+02:00",
+    "lekerdezes_ideje": "2026-09-05T01:01:43"
   },
   {
     "id": "P151",
@@ -106,30 +106,30 @@
     "foglalt_helyek": 12,
     "latitude": 47.50098,
     "longitude": 19.117624,
-    "meres_ideje": "2026-09-05T01:07:43+02:00",
-    "lekerdezes_ideje": "2026-09-04T23:18:03"
+    "meres_ideje": "2026-09-05T02:58:45+02:00",
+    "lekerdezes_ideje": "2026-09-05T01:01:43"
   },
   {
     "id": "P171",
     "nev": "Margitsziget északi fizető parkoló",
     "kapacitas_osszes": 278,
-    "szabad_helyek": 244,
-    "foglalt_helyek": 34,
+    "szabad_helyek": 242,
+    "foglalt_helyek": 36,
     "latitude": 47.534935,
     "longitude": 19.053337,
-    "meres_ideje": "2026-09-05T01:07:10+02:00",
-    "lekerdezes_ideje": "2026-09-04T23:18:03"
+    "meres_ideje": "2026-09-05T02:57:11+02:00",
+    "lekerdezes_ideje": "2026-09-05T01:01:43"
   },
   {
     "id": "P191",
     "nev": "Örs vezér tere",
     "kapacitas_osszes": 265,
-    "szabad_helyek": 247,
-    "foglalt_helyek": 18,
+    "szabad_helyek": 246,
+    "foglalt_helyek": 19,
     "latitude": 47.50191,
     "longitude": 19.135065,
-    "meres_ideje": "2026-09-05T01:07:43+02:00",
-    "lekerdezes_ideje": "2026-09-04T23:18:03"
+    "meres_ideje": "2026-09-05T02:58:45+02:00",
+    "lekerdezes_ideje": "2026-09-05T01:01:43"
   },
   {
     "id": "P201",
@@ -139,8 +139,8 @@
     "foglalt_helyek": 55,
     "latitude": 47.54156,
     "longitude": 18.965647,
-    "meres_ideje": "2026-09-05T01:08:15+02:00",
-    "lekerdezes_ideje": "2026-09-04T23:18:03"
+    "meres_ideje": "2026-09-05T02:58:13+02:00",
+    "lekerdezes_ideje": "2026-09-05T01:01:43"
   },
   {
     "id": "P211",
@@ -150,29 +150,29 @@
     "foglalt_helyek": 104,
     "latitude": 47.421543,
     "longitude": 19.067772,
-    "meres_ideje": "2026-09-05T01:00:10+02:00",
-    "lekerdezes_ideje": "2026-09-04T23:18:03"
+    "meres_ideje": "2026-09-05T02:55:06+02:00",
+    "lekerdezes_ideje": "2026-09-05T01:01:43"
   },
   {
     "id": "P221",
     "nev": "Cinkota P+R parkoló (Ostoros út)",
     "kapacitas_osszes": 165,
-    "szabad_helyek": 103,
-    "foglalt_helyek": 62,
+    "szabad_helyek": 101,
+    "foglalt_helyek": 64,
     "latitude": 47.520844,
     "longitude": 19.219007,
-    "meres_ideje": "2026-09-05T01:03:56+02:00",
-    "lekerdezes_ideje": "2026-09-04T23:18:03"
+    "meres_ideje": "2026-09-05T02:55:07+02:00",
+    "lekerdezes_ideje": "2026-09-05T01:01:43"
   },
   {
     "id": "P251",
     "nev": "Múzeum Mélygarázs",
     "kapacitas_osszes": 710,
-    "szabad_helyek": 524,
-    "foglalt_helyek": 186,
+    "szabad_helyek": 523,
+    "foglalt_helyek": 187,
     "latitude": 47.509594,
     "longitude": 19.083073,
-    "meres_ideje": "2026-09-05T01:02:52+02:00",
-    "lekerdezes_ideje": "2026-09-04T23:18:03"
+    "meres_ideje": "2026-09-05T02:52:31+02:00",
+    "lekerdezes_ideje": "2026-09-05T01:01:43"
   }
 ]
