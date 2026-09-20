@@ -7,19 +7,19 @@
     "foglalt_helyek": 6,
     "latitude": 47.558212,
     "longitude": 19.07823,
-    "meres_ideje": "2026-09-20T00:33:26+02:00",
-    "lekerdezes_ideje": "2026-09-19T22:38:29"
+    "meres_ideje": "2026-09-20T02:13:49+02:00",
+    "lekerdezes_ideje": "2026-09-20T00:21:37"
   },
   {
     "id": "P051",
     "nev": "Kőbánya-Kispest P+R parkoló",
     "kapacitas_osszes": 206,
-    "szabad_helyek": 192,
-    "foglalt_helyek": 14,
+    "szabad_helyek": 194,
+    "foglalt_helyek": 12,
     "latitude": 47.46426,
     "longitude": 19.145142,
-    "meres_ideje": "2026-09-20T00:33:26+02:00",
-    "lekerdezes_ideje": "2026-09-19T22:38:29"
+    "meres_ideje": "2026-09-20T02:13:49+02:00",
+    "lekerdezes_ideje": "2026-09-20T00:21:37"
   },
   {
     "id": "P061",
@@ -29,8 +29,8 @@
     "foglalt_helyek": 53,
     "latitude": 47.46332,
     "longitude": 19.146208,
-    "meres_ideje": "2026-09-20T00:33:26+02:00",
-    "lekerdezes_ideje": "2026-09-19T22:38:29"
+    "meres_ideje": "2026-09-20T02:13:49+02:00",
+    "lekerdezes_ideje": "2026-09-20T00:21:37"
   },
   {
     "id": "P071",
@@ -40,52 +40,52 @@
     "foglalt_helyek": 59,
     "latitude": 47.493107,
     "longitude": 19.071945,
-    "meres_ideje": "2026-09-20T00:26:29+02:00",
-    "lekerdezes_ideje": "2026-09-19T22:38:29"
+    "meres_ideje": "2026-09-20T02:06:36+02:00",
+    "lekerdezes_ideje": "2026-09-20T00:21:37"
   },
   {
     "id": "P101",
     "nev": "Etele P1 P+R parkoló",
     "kapacitas_osszes": 247,
-    "szabad_helyek": 217,
-    "foglalt_helyek": 30,
+    "szabad_helyek": 218,
+    "foglalt_helyek": 29,
     "latitude": 47.46328,
     "longitude": 19.023825,
-    "meres_ideje": "2026-09-20T00:33:26+02:00",
-    "lekerdezes_ideje": "2026-09-19T22:38:29"
+    "meres_ideje": "2026-09-20T02:13:49+02:00",
+    "lekerdezes_ideje": "2026-09-20T00:21:37"
   },
   {
     "id": "P111",
     "nev": "Etele P2 P+R parkoló",
     "kapacitas_osszes": 221,
-    "szabad_helyek": 202,
-    "foglalt_helyek": 19,
+    "szabad_helyek": 203,
+    "foglalt_helyek": 18,
     "latitude": 47.462627,
     "longitude": 19.022522,
-    "meres_ideje": "2026-09-20T00:33:26+02:00",
-    "lekerdezes_ideje": "2026-09-19T22:38:29"
+    "meres_ideje": "2026-09-20T02:13:49+02:00",
+    "lekerdezes_ideje": "2026-09-20T00:21:37"
   },
   {
     "id": "P121",
     "nev": "Őrmező P1 P+R parkoló",
     "kapacitas_osszes": 485,
-    "szabad_helyek": 414,
-    "foglalt_helyek": 71,
+    "szabad_helyek": 419,
+    "foglalt_helyek": 66,
     "latitude": 47.463947,
     "longitude": 19.017702,
-    "meres_ideje": "2026-09-20T00:33:26+02:00",
-    "lekerdezes_ideje": "2026-09-19T22:38:29"
+    "meres_ideje": "2026-09-20T02:13:49+02:00",
+    "lekerdezes_ideje": "2026-09-20T00:21:37"
   },
   {
     "id": "P131",
     "nev": "Őrmező P2 P+R parkoló",
     "kapacitas_osszes": 500,
-    "szabad_helyek": 438,
-    "foglalt_helyek": 62,
+    "szabad_helyek": 440,
+    "foglalt_helyek": 60,
     "latitude": 47.46288,
     "longitude": 19.01936,
-    "meres_ideje": "2026-09-20T00:33:26+02:00",
-    "lekerdezes_ideje": "2026-09-19T22:38:29"
+    "meres_ideje": "2026-09-20T02:13:49+02:00",
+    "lekerdezes_ideje": "2026-09-20T00:21:37"
   },
   {
     "id": "P141",
@@ -95,8 +95,8 @@
     "foglalt_helyek": 6,
     "latitude": 47.5009,
     "longitude": 19.117083,
-    "meres_ideje": "2026-09-20T00:33:26+02:00",
-    "lekerdezes_ideje": "2026-09-19T22:38:29"
+    "meres_ideje": "2026-09-20T02:13:49+02:00",
+    "lekerdezes_ideje": "2026-09-20T00:21:37"
   },
   {
     "id": "P151",
@@ -106,8 +106,8 @@
     "foglalt_helyek": 10,
     "latitude": 47.50098,
     "longitude": 19.117624,
-    "meres_ideje": "2026-09-20T00:33:26+02:00",
-    "lekerdezes_ideje": "2026-09-19T22:38:29"
+    "meres_ideje": "2026-09-20T02:13:49+02:00",
+    "lekerdezes_ideje": "2026-09-20T00:21:37"
   },
   {
     "id": "P171",
@@ -117,41 +117,41 @@
     "foglalt_helyek": 1,
     "latitude": 47.534935,
     "longitude": 19.053337,
-    "meres_ideje": "2026-09-20T00:19:01+02:00",
-    "lekerdezes_ideje": "2026-09-19T22:38:29"
+    "meres_ideje": "2026-09-20T01:39:04+02:00",
+    "lekerdezes_ideje": "2026-09-20T00:21:37"
   },
   {
     "id": "P191",
     "nev": "Örs vezér tere",
     "kapacitas_osszes": 265,
-    "szabad_helyek": 239,
-    "foglalt_helyek": 26,
+    "szabad_helyek": 241,
+    "foglalt_helyek": 24,
     "latitude": 47.50191,
     "longitude": 19.135065,
-    "meres_ideje": "2026-09-20T00:33:26+02:00",
-    "lekerdezes_ideje": "2026-09-19T22:38:29"
+    "meres_ideje": "2026-09-20T02:13:49+02:00",
+    "lekerdezes_ideje": "2026-09-20T00:21:37"
   },
   {
     "id": "P201",
     "nev": "Hűvösvölgy P2",
     "kapacitas_osszes": 80,
-    "szabad_helyek": 21,
-    "foglalt_helyek": 59,
+    "szabad_helyek": 23,
+    "foglalt_helyek": 57,
     "latitude": 47.54156,
     "longitude": 18.965647,
-    "meres_ideje": "2026-09-20T00:33:26+02:00",
-    "lekerdezes_ideje": "2026-09-19T22:38:29"
+    "meres_ideje": "2026-09-20T02:13:18+02:00",
+    "lekerdezes_ideje": "2026-09-20T00:21:37"
   },
   {
     "id": "P211",
     "nev": "Csepel P+R",
     "kapacitas_osszes": 104,
-    "szabad_helyek": 0,
-    "foglalt_helyek": 104,
+    "szabad_helyek": 1,
+    "foglalt_helyek": 103,
     "latitude": 47.421543,
     "longitude": 19.067772,
-    "meres_ideje": "2026-09-20T00:28:05+02:00",
-    "lekerdezes_ideje": "2026-09-19T22:38:29"
+    "meres_ideje": "2026-09-20T02:09:10+02:00",
+    "lekerdezes_ideje": "2026-09-20T00:21:37"
   },
   {
     "id": "P221",
@@ -161,18 +161,18 @@
     "foglalt_helyek": 74,
     "latitude": 47.520844,
     "longitude": 19.219007,
-    "meres_ideje": "2026-09-20T00:28:05+02:00",
-    "lekerdezes_ideje": "2026-09-19T22:38:29"
+    "meres_ideje": "2026-09-20T02:08:09+02:00",
+    "lekerdezes_ideje": "2026-09-20T00:21:37"
   },
   {
     "id": "P251",
     "nev": "Múzeum Mélygarázs",
     "kapacitas_osszes": 710,
-    "szabad_helyek": 508,
-    "foglalt_helyek": 202,
+    "szabad_helyek": 507,
+    "foglalt_helyek": 203,
     "latitude": 47.509594,
     "longitude": 19.083073,
-    "meres_ideje": "2026-09-20T00:28:37+02:00",
-    "lekerdezes_ideje": "2026-09-19T22:38:29"
+    "meres_ideje": "2026-09-20T02:08:39+02:00",
+    "lekerdezes_ideje": "2026-09-20T00:21:37"
   }
 ]
