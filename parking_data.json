@@ -7,8 +7,8 @@
     "foglalt_helyek": 8,
     "latitude": 47.558212,
     "longitude": 19.07823,
-    "meres_ideje": "2026-09-21T01:18:41+02:00",
-    "lekerdezes_ideje": "2026-09-20T23:26:02"
+    "meres_ideje": "2026-09-21T03:13:40+02:00",
+    "lekerdezes_ideje": "2026-09-21T01:17:19"
   },
   {
     "id": "P051",
@@ -18,19 +18,19 @@
     "foglalt_helyek": 14,
     "latitude": 47.46426,
     "longitude": 19.145142,
-    "meres_ideje": "2026-09-21T01:18:41+02:00",
-    "lekerdezes_ideje": "2026-09-20T23:26:02"
+    "meres_ideje": "2026-09-21T03:13:40+02:00",
+    "lekerdezes_ideje": "2026-09-21T01:17:19"
   },
   {
     "id": "P061",
     "nev": "KÖKI Terminál P+R parkolóház",
     "kapacitas_osszes": 330,
-    "szabad_helyek": 279,
-    "foglalt_helyek": 51,
+    "szabad_helyek": 278,
+    "foglalt_helyek": 52,
     "latitude": 47.46332,
     "longitude": 19.146208,
-    "meres_ideje": "2026-09-21T01:18:41+02:00",
-    "lekerdezes_ideje": "2026-09-20T23:26:02"
+    "meres_ideje": "2026-09-21T03:13:40+02:00",
+    "lekerdezes_ideje": "2026-09-21T01:17:19"
   },
   {
     "id": "P071",
@@ -40,8 +40,8 @@
     "foglalt_helyek": 57,
     "latitude": 47.493107,
     "longitude": 19.071945,
-    "meres_ideje": "2026-09-21T01:10:28+02:00",
-    "lekerdezes_ideje": "2026-09-20T23:26:02"
+    "meres_ideje": "2026-09-21T03:05:28+02:00",
+    "lekerdezes_ideje": "2026-09-21T01:17:19"
   },
   {
     "id": "P101",
@@ -51,8 +51,8 @@
     "foglalt_helyek": 20,
     "latitude": 47.46328,
     "longitude": 19.023825,
-    "meres_ideje": "2026-09-21T01:18:41+02:00",
-    "lekerdezes_ideje": "2026-09-20T23:26:02"
+    "meres_ideje": "2026-09-21T03:13:40+02:00",
+    "lekerdezes_ideje": "2026-09-21T01:17:19"
   },
   {
     "id": "P111",
@@ -62,8 +62,8 @@
     "foglalt_helyek": 11,
     "latitude": 47.462627,
     "longitude": 19.022522,
-    "meres_ideje": "2026-09-21T01:18:41+02:00",
-    "lekerdezes_ideje": "2026-09-20T23:26:02"
+    "meres_ideje": "2026-09-21T03:13:40+02:00",
+    "lekerdezes_ideje": "2026-09-21T01:17:19"
   },
   {
     "id": "P121",
@@ -73,8 +73,8 @@
     "foglalt_helyek": 56,
     "latitude": 47.463947,
     "longitude": 19.017702,
-    "meres_ideje": "2026-09-21T01:18:41+02:00",
-    "lekerdezes_ideje": "2026-09-20T23:26:02"
+    "meres_ideje": "2026-09-21T03:13:40+02:00",
+    "lekerdezes_ideje": "2026-09-21T01:17:19"
   },
   {
     "id": "P131",
@@ -84,8 +84,8 @@
     "foglalt_helyek": 33,
     "latitude": 47.46288,
     "longitude": 19.01936,
-    "meres_ideje": "2026-09-21T01:18:41+02:00",
-    "lekerdezes_ideje": "2026-09-20T23:26:02"
+    "meres_ideje": "2026-09-21T03:13:40+02:00",
+    "lekerdezes_ideje": "2026-09-21T01:17:19"
   },
   {
     "id": "P141",
@@ -95,8 +95,8 @@
     "foglalt_helyek": 5,
     "latitude": 47.5009,
     "longitude": 19.117083,
-    "meres_ideje": "2026-09-21T01:18:41+02:00",
-    "lekerdezes_ideje": "2026-09-20T23:26:02"
+    "meres_ideje": "2026-09-21T03:13:40+02:00",
+    "lekerdezes_ideje": "2026-09-21T01:17:19"
   },
   {
     "id": "P151",
@@ -106,8 +106,8 @@
     "foglalt_helyek": 10,
     "latitude": 47.50098,
     "longitude": 19.117624,
-    "meres_ideje": "2026-09-21T01:18:41+02:00",
-    "lekerdezes_ideje": "2026-09-20T23:26:02"
+    "meres_ideje": "2026-09-21T03:13:40+02:00",
+    "lekerdezes_ideje": "2026-09-21T01:17:19"
   },
   {
     "id": "P171",
@@ -117,19 +117,19 @@
     "foglalt_helyek": 13,
     "latitude": 47.534935,
     "longitude": 19.053337,
-    "meres_ideje": "2026-09-21T01:17:09+02:00",
-    "lekerdezes_ideje": "2026-09-20T23:26:02"
+    "meres_ideje": "2026-09-21T03:11:06+02:00",
+    "lekerdezes_ideje": "2026-09-21T01:17:19"
   },
   {
     "id": "P191",
     "nev": "Örs vezér tere",
     "kapacitas_osszes": 265,
-    "szabad_helyek": 246,
-    "foglalt_helyek": 19,
+    "szabad_helyek": 245,
+    "foglalt_helyek": 20,
     "latitude": 47.50191,
     "longitude": 19.135065,
-    "meres_ideje": "2026-09-21T01:18:41+02:00",
-    "lekerdezes_ideje": "2026-09-20T23:26:02"
+    "meres_ideje": "2026-09-21T03:13:40+02:00",
+    "lekerdezes_ideje": "2026-09-21T01:17:19"
   },
   {
     "id": "P201",
@@ -139,8 +139,8 @@
     "foglalt_helyek": 25,
     "latitude": 47.54156,
     "longitude": 18.965647,
-    "meres_ideje": "2026-09-21T01:18:10+02:00",
-    "lekerdezes_ideje": "2026-09-20T23:26:02"
+    "meres_ideje": "2026-09-21T03:13:09+02:00",
+    "lekerdezes_ideje": "2026-09-21T01:17:19"
   },
   {
     "id": "P211",
@@ -150,8 +150,8 @@
     "foglalt_helyek": 104,
     "latitude": 47.421543,
     "longitude": 19.067772,
-    "meres_ideje": "2026-09-21T01:13:02+02:00",
-    "lekerdezes_ideje": "2026-09-20T23:26:02"
+    "meres_ideje": "2026-09-21T03:09:03+02:00",
+    "lekerdezes_ideje": "2026-09-21T01:17:19"
   },
   {
     "id": "P221",
@@ -161,18 +161,18 @@
     "foglalt_helyek": 96,
     "latitude": 47.520844,
     "longitude": 19.219007,
-    "meres_ideje": "2026-09-21T01:09:58+02:00",
-    "lekerdezes_ideje": "2026-09-20T23:26:02"
+    "meres_ideje": "2026-09-21T03:05:59+02:00",
+    "lekerdezes_ideje": "2026-09-21T01:17:19"
   },
   {
     "id": "P251",
     "nev": "Múzeum Mélygarázs",
     "kapacitas_osszes": 710,
-    "szabad_helyek": 479,
-    "foglalt_helyek": 231,
+    "szabad_helyek": 477,
+    "foglalt_helyek": 233,
     "latitude": 47.509594,
     "longitude": 19.083073,
-    "meres_ideje": "2026-09-21T01:13:32+02:00",
-    "lekerdezes_ideje": "2026-09-20T23:26:02"
+    "meres_ideje": "2026-09-21T03:08:32+02:00",
+    "lekerdezes_ideje": "2026-09-21T01:17:19"
   }
 ]
