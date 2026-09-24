@@ -40183,3 +40183,12 @@
 2026-09-23 22:29:20,873  INFO      Dinamikus adatok: 15 parkoló beolvasva.
 2026-09-23 22:29:20,874  INFO      JSON mentve: parking_data.json (15 rekord)
 2026-09-23 22:29:31,353  INFO      Excel frissítve: parking_log.xlsx (26046 sor)
+2026-09-24 00:42:04,519  INFO      NAP Hub P+R parkoló monitor indul. [EGYSZERI MÓD]
+2026-09-24 00:42:04,519  INFO      Statikus feed : https://napphub.kozut.hu/hub-web//datex2/2_3/a0db40f1-6bc2-4059-853a-64eb91a45e9c/getDatex2Data
+2026-09-24 00:42:04,519  INFO      Dinamikus feed: https://napphub.kozut.hu/hub-web//datex2/2_3/7b21743f-fd9f-43d1-9b5e-77e3eb714c06/getDatex2Data
+2026-09-24 00:42:04,519  INFO      === Lekérdezés indul ===
+2026-09-24 00:42:14,537  ERROR     Letöltési hiba (https://napphub.kozut.hu/hub-web//datex2/2_3/a0db40f1-6bc2-4059-853a-64eb91a45e9c/getDatex2Data): HTTPSConnectionPool(host='napphub.kozut.hu', port=443): Max retries exceeded with url: /hub-web//datex2/2_3/a0db40f1-6bc2-4059-853a-64eb91a45e9c/getDatex2Data (Caused by NameResolutionError("HTTPSConnection(host='napphub.kozut.hu', port=443): Failed to resolve 'napphub.kozut.hu' ([Errno -3] Temporary failure in name resolution)"))
+2026-09-24 00:42:14,538  WARNING   Statikus feed nem elérhető, üres kapacitásokkal folytatjuk.
+2026-09-24 00:42:25,994  INFO      Dinamikus adatok: 15 parkoló beolvasva.
+2026-09-24 00:42:25,995  INFO      JSON mentve: parking_data.json (15 rekord)
+2026-09-24 00:42:38,846  INFO      Excel frissítve: parking_log.xlsx (26061 sor)
