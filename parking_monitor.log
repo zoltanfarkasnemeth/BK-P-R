@@ -42187,3 +42187,11 @@
 2026-10-16 20:37:42,102  INFO      Dinamikus adatok: 16 parkoló beolvasva.
 2026-10-16 20:37:42,103  INFO      JSON mentve: parking_data.json (16 rekord)
 2026-10-16 20:37:52,793  INFO      Excel frissítve: parking_log.xlsx (27435 sor)
+2026-10-16 22:59:38,942  INFO      NAP Hub P+R parkoló monitor indul. [EGYSZERI MÓD]
+2026-10-16 22:59:38,942  INFO      Statikus feed : https://napphub.kozut.hu/hub-web//datex2/2_3/a0db40f1-6bc2-4059-853a-64eb91a45e9c/getDatex2Data
+2026-10-16 22:59:38,942  INFO      Dinamikus feed: https://napphub.kozut.hu/hub-web//datex2/2_3/7b21743f-fd9f-43d1-9b5e-77e3eb714c06/getDatex2Data
+2026-10-16 22:59:38,942  INFO      === Lekérdezés indul ===
+2026-10-16 22:59:51,230  INFO      Statikus adatok: 15 parkoló beolvasva.
+2026-10-16 22:59:54,291  INFO      Dinamikus adatok: 16 parkoló beolvasva.
+2026-10-16 22:59:54,292  INFO      JSON mentve: parking_data.json (16 rekord)
+2026-10-16 23:00:00,925  INFO      Excel frissítve: parking_log.xlsx (27451 sor)
