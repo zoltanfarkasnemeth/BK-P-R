@@ -43043,3 +43043,11 @@
 2026-10-24 21:20:17,365  INFO      Változás – Csepel P+R [P211]: -2 (volt: 8, most: 6)
 2026-10-24 21:20:17,644  INFO      Változás – Cinkota P+R parkoló (Ostoros út) [P221]: +1 (volt: 40, most: 41)
 2026-10-24 21:20:21,694  INFO      Excel frissítve: parking_log.xlsx (28235 sor)
+2026-10-24 23:21:29,594  INFO      NAP Hub P+R parkoló monitor indul. [EGYSZERI MÓD]
+2026-10-24 23:21:29,594  INFO      Statikus feed : https://napphub.kozut.hu/hub-web//datex2/2_3/a0db40f1-6bc2-4059-853a-64eb91a45e9c/getDatex2Data
+2026-10-24 23:21:29,594  INFO      Dinamikus feed: https://napphub.kozut.hu/hub-web//datex2/2_3/7b21743f-fd9f-43d1-9b5e-77e3eb714c06/getDatex2Data
+2026-10-24 23:21:29,594  INFO      === Lekérdezés indul ===
+2026-10-24 23:21:39,241  INFO      Statikus adatok: 16 parkoló beolvasva.
+2026-10-24 23:21:39,805  INFO      Dinamikus adatok: 16 parkoló beolvasva.
+2026-10-24 23:21:39,805  INFO      JSON mentve: parking_data.json (16 rekord)
+2026-10-24 23:21:48,745  INFO      Excel frissítve: parking_log.xlsx (28251 sor)
