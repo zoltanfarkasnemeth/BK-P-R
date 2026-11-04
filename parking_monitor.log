@@ -43779,3 +43779,11 @@
 2026-11-03 21:05:18,893  INFO      Változás – Cinkota P+R parkoló (Ostoros út) [P221]: +105 (volt: 13, most: 118)
 2026-11-03 21:05:19,050  INFO      Változás – Múzeum Mélygarázs [P251]: -23 (volt: 466, most: 443)
 2026-11-03 21:05:21,298  INFO      Excel frissítve: parking_log.xlsx (28827 sor)
+2026-11-04 01:13:19,654  INFO      NAP Hub P+R parkoló monitor indul. [EGYSZERI MÓD]
+2026-11-04 01:13:19,654  INFO      Statikus feed : https://napphub.kozut.hu/hub-web//datex2/2_3/a0db40f1-6bc2-4059-853a-64eb91a45e9c/getDatex2Data
+2026-11-04 01:13:19,654  INFO      Dinamikus feed: https://napphub.kozut.hu/hub-web//datex2/2_3/7b21743f-fd9f-43d1-9b5e-77e3eb714c06/getDatex2Data
+2026-11-04 01:13:19,654  INFO      === Lekérdezés indul ===
+2026-11-04 01:13:31,880  INFO      Statikus adatok: 16 parkoló beolvasva.
+2026-11-04 01:13:32,565  INFO      Dinamikus adatok: 16 parkoló beolvasva.
+2026-11-04 01:13:32,566  INFO      JSON mentve: parking_data.json (16 rekord)
+2026-11-04 01:13:44,778  INFO      Excel frissítve: parking_log.xlsx (28843 sor)
